@@ -25,5 +25,5 @@ Metacello new
 
 Load the Lepiter database:
 ```
-BaselineOfGtStuff loadLepiter
+BaselineOfEgad loadLepiter
 ```
