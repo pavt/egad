@@ -19,7 +19,7 @@ Load the project into GT:
 ```
 Metacello new
 	baseline: 'GtStuff';
-	repository: 'github://pavt/gt-stuff:main/src';
+	repository: 'github://pavt/egad:main/src';
 	load
 ```
 
