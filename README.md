@@ -1,5 +1,5 @@
 # EGAD: Explorable GitHub Action Domain model
-## a Moldable Tool for GitHub Action Analysis
+## A Moldable Tool for GitHub Action Analysis
 
 
 ### TODO
