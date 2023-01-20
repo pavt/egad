@@ -1,12 +1,12 @@
 # EGAD: a Moldable Tool for GitHub Action Analysis
 
 
-\### Readme content
+### TODO
 
-- [ ] add tool
+- [ ] add the tool
 - [ ] add index
 - [ ] app intro
-- [ ] installation (How to load)
+- [X] installation (How to load)
 - [ ] quick examples
 - [ ] tutorial
 - [ ] video presentation
@@ -16,6 +16,7 @@
 - [X] licence
 - [ ] release
 
+### Content
 
 Load the project into GT:
 ```
