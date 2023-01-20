@@ -1,4 +1,4 @@
-# EGAD: a Moldable tool for GitHub Action Analysis
+# EGAD: a Moldable Tool for GitHub Action Analysis
 
 
 \### Readme content
