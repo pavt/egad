@@ -1,2 +1,1 @@
-# egad
-EGAD: a Moldable tool for GitHub Action Analysis
+# EGAD: a Moldable tool for GitHub Action Analysis
