@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:57:32.050195-03:00"
+						"dateAndTimeString" : "2023-01-20T18:58:32.8783-03:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:52.495616-03:00"
+						"dateAndTimeString" : "2023-01-20T18:58:34.835738-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gquF3hqvDQCH8FdECkLDIQ=="
+					"uidString" : "fGLE4hqvDQCIaeexCkLDIQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[1. Loading EGAD]] "
+				"string" : "Load the project into GT:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-20T18:58:05.821854-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-20T18:58:07.730445-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sf+T4RqvDQCIWYSLCkLDIQ=="
+				},
+				"code" : "Metacello new\n\tbaseline: 'Egad';\n\trepository: 'github://pavt/egad:main/src';\n\tload"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +89,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:59:05.173129-03:00"
+						"dateAndTimeString" : "2023-01-20T18:58:43.691328-03:00"
 					}
 				},
 				"editEmail" : {
@@ -66,20 +100,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:59:23.354873-03:00"
+						"dateAndTimeString" : "2023-01-20T18:58:44.781636-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Hx7E5BqvDQCIhqYrCkLDIQ=="
+					"uidString" : "1dCO4xqvDQCIdftoCkLDIQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[2. Sticky Commit Narrative]]"
+				"string" : "Load the Lepiter database:"
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -92,7 +126,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:57:04.32309-03:00"
+						"dateAndTimeString" : "2023-01-20T18:58:14.118482-03:00"
 					}
 				},
 				"editEmail" : {
@@ -103,54 +137,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:57:04.32309-03:00"
+						"dateAndTimeString" : "2023-01-20T18:58:21.474319-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "m5rp3RqvDQCH7yqzCkLDIQ=="
+					"uidString" : "gJQS4hqvDQCIX2S0CkLDIQ=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:56:13.539304-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:56:13.539304-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "ErTi2hqvDQCH7OA+CkLDIQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
+				"code" : "BaselineOfEgad loadLepiter"
 			}
 		]
 	},
@@ -162,7 +156,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-20T18:56:53.204446-03:00"
+			"dateAndTimeString" : "2023-01-20T18:57:47.656387-03:00"
 		}
 	},
 	"editEmail" : {
@@ -173,15 +167,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-20T18:56:57.7095-03:00"
+			"dateAndTimeString" : "2023-01-20T18:57:47.656387-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Table of Content"
+		"title" : "Loading EGAD"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "6cd1e2dd-19af-0d00-bf30-5eff0a246fa1"
+		"uuid" : "2ecf7ee0-1aaf-0d00-884b-70020a42c321"
 	}
 }
