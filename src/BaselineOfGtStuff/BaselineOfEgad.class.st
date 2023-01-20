@@ -1,11 +1,11 @@
 Class {
-	#name : #BaselineOfGtStuff,
+	#name : #BaselineOfEgad,
 	#superclass : #BaselineOf,
 	#category : #BaselineOfGtStuff
 }
 
 { #category : #accessing }
-BaselineOfGtStuff class >> loadLepiter [
+BaselineOfEgad class >> loadLepiter [
 	| currentProperties |
 	currentProperties := LeDatabasesRegistry defaultLogicalDatabase properties.
 	currentProperties
@@ -15,7 +15,7 @@ BaselineOfGtStuff class >> loadLepiter [
 ]
 
 { #category : #baseline }
-BaselineOfGtStuff >> baseline: spec [
+BaselineOfEgad >> baseline: spec [
 	<baseline>
 	spec for: #common do: [ spec package: 'GtStuff' ]
 ]
