@@ -4,7 +4,7 @@
 \### Readme content
 
 - [ ] app intro
-- [ ] GT installation
+- [ ] installation (How to load)
 - [ ] quick examples
 - [ ] tutorial
 - [ ] video presentation
