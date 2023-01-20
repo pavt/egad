@@ -13,3 +13,17 @@
 - [ ] link to the paper
 - [X] licence
 - [ ] release
+
+
+Load the project into GT:
+```
+Metacello new
+	baseline: 'GtStuff';
+	repository: 'github://pavt/gt-stuff:main/src';
+	load
+```
+
+Load the Lepiter database:
+```
+BaselineOfGtStuff loadLepiter
+```
