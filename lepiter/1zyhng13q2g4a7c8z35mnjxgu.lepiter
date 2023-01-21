@@ -167,12 +167,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-20T18:58:52.492635-03:00"
+			"dateAndTimeString" : "2023-01-21T18:12:26.051098-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "1. Loading EGAD"
+		"title" : "Loading EGAD project"
 	},
 	"uid" : {
 		"__type" : "uuid",

@@ -66,14 +66,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:12:01.125846-03:00"
+						"dateAndTimeString" : "2023-01-21T18:11:57.259122-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "LqjvVC6vDQCuEmQYBDePPg=="
 				},
-				"code" : "history := WEHistory fromRepoPath: '../rich' forYML: 'pythonpackage.yml'"
+				"code" : "history := WEHistory fromRepoPath: '../rich' forYML: 'pytho'"
 			}
 		]
 	},
@@ -96,12 +96,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-21T18:12:14.489488-03:00"
+			"dateAndTimeString" : "2023-01-20T18:59:25.288051-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Sticky Commit Narrative"
+		"title" : "2. Sticky Commit Narrative"
 	},
 	"uid" : {
 		"__type" : "uuid",
