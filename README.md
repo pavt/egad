@@ -4,16 +4,15 @@
 
 ### TODO
 
-- [ ] add the tool
+- [ ] add the tool - 80% | missing new order, examples using storeOn, code comments, and Lepiter pages
 - [ ] add index
-- [ ] app intro
+- [ ] app intro sentence
 - [X] installation (How to load) 
-- [ ] quick examples
+- [ ] quick documented examples
 - [ ] tutorial
 - [ ] video presentation
 - [ ] example dataset
 - [ ] GitHub citation - 90%, missing DOI
-- [ ] link to the paper
 - [X] licence
 - [ ] release
 
