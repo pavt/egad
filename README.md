@@ -7,12 +7,12 @@
 - [ ] add the tool
 - [ ] add index
 - [ ] app intro
-- [ ] installation (How to load) - 90%, missing DOI
+- [X] installation (How to load) 
 - [ ] quick examples
 - [ ] tutorial
 - [ ] video presentation
 - [ ] example dataset
-- [ ] GitHub citation
+- [ ] GitHub citation - 90%, missing DOI
 - [ ] link to the paper
 - [X] licence
 - [ ] release
