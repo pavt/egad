@@ -7,7 +7,7 @@
 - [ ] add the tool
 - [ ] add index
 - [ ] app intro
-- [X] installation (How to load)
+- [ ] installation (How to load) - 90%, missing DOI
 - [ ] quick examples
 - [ ] tutorial
 - [ ] video presentation
