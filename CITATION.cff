@@ -1,14 +1,20 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+cff-version: 0.0.1
+message: "Valenzuela:msr2022tool"
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+- family-names: "Valenzuela-Toledo"
+  given-names: "Pablo"
+  orcid: "https://orcid.org/0000-0001-6349-4296"
+- family-names: "Bergel"
+  given-names: "Alexandre"
+  orcid: "https://orcid.org/0000-0001-8087-1903"
+- family-names: "Kehrer"
+  given-names: "Timo"
+  orcid: "https://orcid.org/0000-0002-2582-5557"
+- family-names: "Nierstrasz"
+  given-names: "Oscar"
+  orcid: "https://orcid.org/0000-0002-9975-9791"
+title: "EGAD: a Moldable Tool for GitHub Action Analysis"
+version: 0.0.1
+doi: 00.0000/zenodo.1234
+date-released: 2023-01-23
+url: "https://github.com/pavt/egad"
