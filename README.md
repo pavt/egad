@@ -6,7 +6,8 @@
 
 - [ ] add the tool - 80% | missing new order, examples using storeOn, code comments, and Lepiter pages
 - [ ] add index
-- [ ] app intro sentence
+- [ ] app intro sentence 
+- [ ] Picture of the tool
 - [X] installation (How to load) 
 - [ ] quick documented examples
 - [ ] tutorial
