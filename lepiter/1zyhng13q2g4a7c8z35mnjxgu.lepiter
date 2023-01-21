@@ -145,6 +145,74 @@
 					"uidString" : "gJQS4hqvDQCIX2S0CkLDIQ=="
 				},
 				"code" : "BaselineOfEgad loadLepiter"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-21T18:18:15.464841-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-21T18:18:33.910681-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "iWfxcC6vDQCv1lXdBDePPg=="
+				},
+				"code" : "'.' asFileReference"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-21T18:18:53.810395-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-21T18:18:59.653076-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YYM6cy6vDQCv/C+dBDePPg=="
+				},
+				"code" : "WEClassesExamples"
 			}
 		]
 	},

@@ -147,43 +147,6 @@
 				"code" : "BaselineOfEgad loadLepiter"
 			},
 			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:03:01.681128-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:03:03.607166-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "mrdpOi6vDQCtvqxZBDePPg=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "File in:"
-			},
-			{
 				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -197,7 +160,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:00:44.29228-03:00"
+						"dateAndTimeString" : "2023-01-21T18:18:15.464841-03:00"
 					}
 				},
 				"editEmail" : {
@@ -208,12 +171,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:00:55.294236-03:00"
+						"dateAndTimeString" : "2023-01-21T18:18:33.910681-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "o8hJMi6vDQCtl1TYBDePPg=="
+					"uidString" : "iWfxcC6vDQCv1lXdBDePPg=="
 				},
 				"code" : "'.' asFileReference"
 			},
@@ -231,7 +194,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:03:08.033131-03:00"
+						"dateAndTimeString" : "2023-01-21T18:18:53.810395-03:00"
 					}
 				},
 				"editEmail" : {
@@ -242,14 +205,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:03:13.273551-03:00"
+						"dateAndTimeString" : "2023-01-21T18:18:56.802324-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "fBjbOi6vDQCt2yPsBDePPg=="
+					"uidString" : "YYM6cy6vDQCv/C+dBDePPg=="
 				},
-				"code" : "WEHistory"
+				"code" : "WE"
 			}
 		]
 	},
