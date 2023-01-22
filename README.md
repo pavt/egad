@@ -34,7 +34,7 @@ BaselineOfEgad loadLepiter
 
 - [Replication package](https://github.com/pavt/egad/blob/main/documentation/replication-package.md) for the Data and Tool Showcase Track MSR 2023.
 
-## Video Presentation of EGAD
+## Demo video
 
 - TODO
 
