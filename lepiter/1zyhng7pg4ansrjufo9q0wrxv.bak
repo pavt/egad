@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T11:23:05.497551-03:00"
+						"dateAndTimeString" : "2023-01-22T11:24:13.612185-03:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We wrap the history of a workflow in a {{gtClass:WEHistory}"
+				"string" : "We wrap the history of a workflow in a {{gtClass:name=WEHistory}}"
 			},
 			{
 				"__type" : "pharoSnippet",

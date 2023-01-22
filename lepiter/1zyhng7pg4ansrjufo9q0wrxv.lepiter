@@ -137,7 +137,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T10:53:16.208099-03:00"
+						"dateAndTimeString" : "2023-01-22T11:26:16.138245-03:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +147,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Similarly, we replicate the Sticky Commits candidates analysis considering all the GiHub Actions workflows in a set of repositories."
+				"string" : "Similarly, we replicate the Sticky Commits candidates analysis considering all the GitHub Actions workflows in a set of repositories."
 			},
 			{
 				"__type" : "textSnippet",
