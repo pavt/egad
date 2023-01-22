@@ -1,8 +1,7 @@
-# EGAD: Explorable GitHub Action Domain Model
-###  EGAG (Explorable GitHub Action Domain Model) is a domain-specific tool to depict and analyze GA workflows.
+# EGAD : Explorable GitHub Action Domain Model
 
 
-### TODO
+## TODO
 
 - [X] add the tool
 - [ ] add index
@@ -17,18 +16,11 @@
 - [X] licence
 - [ ] release
 
-# Table of Contents
+## TODO
 
-1. [Introduction](#Introduction)
-2. [Documentation](#Documentation)
-3. [How to Load](#How-to-Load)
+## Setting Up EGAD
 
-
-## Introduction
-## Documentation
-## How to Load
-
-Load the project into GT:
+Load EGAD project into GT:
 ```
 Metacello new
 	baseline: 'Egad';
