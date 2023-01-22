@@ -31,3 +31,17 @@ Load the Lepiter database:
 ```
 BaselineOfEgad loadLepiter
 ```
+## Replication Package 
+
+- We provide a replication package for the Data and Tool Showcase Track MSR 2023.
+
+## Video Presentation of EGAD
+
+## SEG
+
+-  EGAD is being developed by AAA, BBB. etc, of the Software Engineering Group, University of Bern, Switzerland.
+
+
+
+
+
