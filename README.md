@@ -14,7 +14,7 @@ EGAD is a tool for [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) (GT
 - [ ] GitHub citation - 90%, missing DOI (release?)
 - [X] licence
 
-## TODO
+------
 
 ## Setting up EGAD on GT
 
