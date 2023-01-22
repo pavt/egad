@@ -21,7 +21,7 @@
 
 1. [Introduction](#Introduction)
 2. [Documentation](#Documentation)
-3. [How to Load](#How to Load)
+3. [How to Load](#How-to-Load)
 
 
 ## Introduction
