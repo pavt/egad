@@ -19,11 +19,11 @@
 
 # Table of Contents
 
-1. [EGAD Description](#EGAD-Description)
+1. [EGAD Description](#EGAD Description)
 2. [Example2](#example2)
 
 
-## EGAD-Description
+## EGAD Description
 
 
 
