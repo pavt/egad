@@ -1,12 +1,7 @@
 # EGAD : Explorable GitHub Action Domain Model
 
 ![alt text](https://github.com/pavt/egad/blob/main/images/egad-narrative.png)
-
-<figure>
-    <img src="[/assets/images/albuquerque.jpg](https://github.com/pavt/egad/blob/main/images/egad-narrative.png)"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
-</figure>
+´´WEStickyGroup object inspection.
 
 
 EGAD is a tool for [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) (GT).
