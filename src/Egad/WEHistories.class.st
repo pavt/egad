@@ -1,3 +1,8 @@
+"
+The class `WEHistories` implement a collecition of histories Github Action workflow.
+
+*Responsibility*: (i) keep a collection of all the versions of a all workflow files; (ii) initialize these collections.
+"
 Class {
 	#name : #WEHistories,
 	#superclass : #Object,

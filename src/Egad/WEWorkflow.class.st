@@ -1,3 +1,6 @@
+"
+The class `WEWorkflow` implement the Github Action workflow.
+"
 Class {
 	#name : #WEWorkflow,
 	#superclass : #WENamedEntity,

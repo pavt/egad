@@ -1,3 +1,6 @@
+"
+The class `WEJob` implement the jobs of a Github Action workflow.
+"
 Class {
 	#name : #WEJob,
 	#superclass : #WENamedEntity,

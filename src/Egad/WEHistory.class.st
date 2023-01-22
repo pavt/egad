@@ -1,10 +1,22 @@
 "
-Workflow Evolution the evolution of a workflow file into a history. The class  `WEHistory` implement the history of a workflow.
+The class `WEHistory` implement the history of a Github Action workflow.
 
-*Responsibility*: (i) keep a collection of all the version of a workflow file; (ii) initialize the history of a workflow.
+*Responsibility*: (i) keep a collection of all the versions of a workflow file; (ii) initialize the history of a workflow.
 
-An example of a WEHistory is:  <docsYMLHistoryExample> 
+An example of a WEHistory is: 
 
+```
+| history |
+	history := WEHistory fromRepoPath: '../fastai' forYML: 'docs.yml' .
+	self assert: history workflowCommits size equals: 112.
+	self assert: history stickyCommits size equals: 12.
+	^ history
+
+```
+
+
+
+ 
 
 
 "

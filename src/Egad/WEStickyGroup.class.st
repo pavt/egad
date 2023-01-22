@@ -1,3 +1,6 @@
+"
+The class `WEStickickyGroup`  collect the Sticky Commits related to Github Action workflows.
+"
 Class {
 	#name : #WEStickyGroup,
 	#superclass : #Object,

@@ -1,3 +1,6 @@
+"
+The class `WEStep` implement the step of the jobs of a Github Action workflow.
+"
 Class {
 	#name : #WEStep,
 	#superclass : #WEModelEntity,
