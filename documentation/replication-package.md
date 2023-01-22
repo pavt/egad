@@ -1,6 +1,6 @@
 # Replication Package Data and Tool Showcase Track MSR 2023
 
-1. Load the tool and the Lepiter database into GT
+### 1 Load the tool and the Lepiter database into GT
 
 Load EGAD project into GT:
 ```
