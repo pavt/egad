@@ -21,11 +21,12 @@
 
 1. [Introduction](#Introduction)
 2. [Documentation](#Documentation)
+3. [How to Load](#How to Load)
 
 
 ## Introduction
 ## Documentation
-
+## How to Load
 
 Load the project into GT:
 ```
