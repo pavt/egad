@@ -1,4 +1,4 @@
-# Replication Package Data and Tool Showcase Track MSR 2023
+# EGAD - Replication Package Data and Tool Showcase Track MSR 2023
 
 ### 1 Load the tool and the Lepiter database into GT
 
@@ -29,8 +29,3 @@ BaselineOfEgad loadLepiter
 ### 4 Code execution
 - At this point all you have to do is inspect the code snippets of the narrative.
 - See for example, image.file.
-
-
-
-
-
