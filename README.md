@@ -4,7 +4,7 @@
 
 ### TODO
 
-- [ ] add the tool - 80% | missing new order, examples using storeOn, code comments, and Lepiter pages
+- [X] add the tool
 - [ ] add index
 - [ ] app intro sentence 
 - [ ] Picture of the tool
