@@ -1,7 +1,7 @@
 # EGAD : Explorable GitHub Action Domain Model
 
 ![alt text](https://github.com/pavt/egad/blob/main/images/egad-narrative.png)
-´´WEStickyGroup object inspection.
+*WEStickyGroup* object inspection.
 
 
 EGAD is a tool for [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) (GT).
