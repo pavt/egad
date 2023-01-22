@@ -39,7 +39,7 @@ BaselineOfEgad loadLepiter
 
 ## SEG
 
--  EGAD is being developed by AAA, BBB. etc, of the Software Engineering Group, University of Bern, Switzerland.
+-  EGAD is being developed by AAA, BBB. etc, of the [Software Engineering Group]([https://github.com/feenkcom/gtoolkit](https://seg.inf.unibe.ch), University of Bern, Switzerland.
 
 
 
