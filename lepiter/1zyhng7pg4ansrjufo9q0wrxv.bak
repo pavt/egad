@@ -42,6 +42,43 @@
 				"string" : "Our goal is *to detect one or more sequences of sticky commits through the exploration of the history of the pythonpackage.yml*."
 			},
 			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-22T11:21:41.223663-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-22T11:23:05.497551-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JsJFvDyvDQCqU1bTBZNpiQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We wrap the history of a workflow in a {{gtClass:WEHistory}"
+			},
+			{
 				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -290,6 +327,46 @@
 					"__type" : "textStyle"
 				},
 				"string" : "We wrap this histories in the next object example: {{gtMethod:name=WEHistoriesExamples>>historiesExample|expanded}}"
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-22T11:07:27.652537-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-22T11:07:27.652537-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JHYiijyvDQCp+MeuBZNpiQ=="
+				},
+				"exampleSelector" : "historiesExample",
+				"previewHeight" : 500,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "WEHistoriesExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : true,
+				"noCode" : true
 			}
 		]
 	},

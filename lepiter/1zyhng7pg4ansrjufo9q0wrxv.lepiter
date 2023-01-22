@@ -42,6 +42,43 @@
 				"string" : "Our goal is *to detect one or more sequences of sticky commits through the exploration of the history of the pythonpackage.yml*."
 			},
 			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-22T11:21:41.223663-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-22T11:24:13.612185-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JsJFvDyvDQCqU1bTBZNpiQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We wrap the history of a workflow in a {{gtClass:name=WEHistory}}"
+			},
+			{
 				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",

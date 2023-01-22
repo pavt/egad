@@ -205,14 +205,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:18:56.802324-03:00"
+						"dateAndTimeString" : "2023-01-21T18:18:59.653076-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "YYM6cy6vDQCv/C+dBDePPg=="
 				},
-				"code" : "WE"
+				"code" : "WEClassesExamples"
 			}
 		]
 	},
