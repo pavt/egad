@@ -1,6 +1,6 @@
 # EGAD : Explorable GitHub Action Domain Model
 
-![alt text]([http://url/to/img.png](https://github.com/pavt/egad/blob/main/images/egad-narrative.png)
+![alt text](https://github.com/pavt/egad/blob/main/images/egad-narrative.png)
 
 [](https://github.com/pavt/egad/blob/main/images/egad-narrative.png)
 
