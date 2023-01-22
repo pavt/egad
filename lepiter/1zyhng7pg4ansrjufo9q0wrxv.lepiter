@@ -103,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:12:01.125846-03:00"
+						"dateAndTimeString" : "2023-01-22T12:48:37.613571-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "LqjvVC6vDQCuEmQYBDePPg=="
 				},
-				"code" : "history := WEHistory fromRepoPath: '../rich' forYML: 'pythonpackage.yml'"
+				"code" : "history := WEHistory fromRepoPath: '../repositories/rich' forYML: 'pythonpackage.yml'"
 			},
 			{
 				"__type" : "textSnippet",
@@ -389,12 +389,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-22T10:48:22.848627-03:00"
+			"dateAndTimeString" : "2023-01-22T16:01:15.819831-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Sticky Commit narrative"
+		"title" : "Sticky Commits narrative"
 	},
 	"uid" : {
 		"__type" : "uuid",
