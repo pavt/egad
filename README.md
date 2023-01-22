@@ -7,17 +7,14 @@ EGAD was created to depict and analyze detailed [ GA workflow](https://github.co
 
 ## TODO
 
-- [X] add the tool
-- [X] app intro sentence 
-- [ ] Picture of the tool
+- [X] tool
+- [X] tool intro sentence 
+- [ ] picture of the tool
 - [X] installation (How to load) 
-- [ ] quick documented examples
-- [ ] tutorial
+- [ ] replication package MSR 2023
 - [ ] video presentation
-- [ ] example dataset
-- [ ] GitHub citation - 90%, missing DOI
+- [ ] GitHub citation - 90%, missing DOI (release?)
 - [X] licence
-- [ ] release
 
 ## TODO
 
