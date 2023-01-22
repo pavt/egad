@@ -1,5 +1,5 @@
 "
-The class `WEEvent` implement the the events of a Github Action workflow.
+The class `WEEvent` implement the events of a Github Action workflow.
 "
 Class {
 	#name : #WEEvent,
