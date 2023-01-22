@@ -20,11 +20,11 @@
 # Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Example2](#example2)
+2. [Documentation](#Documentation)
 
 
 ## Introduction
-
+## Documentation
 
 
 Load the project into GT:
