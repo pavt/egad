@@ -1,6 +1,6 @@
 # EGAD : Explorable GitHub Action Domain Model
 
-EGAD is a tool for [Glamorous Toolkit]([https://duckduckgo.com](https://github.com/feenkcom/gtoolkit)).
+EGAD is a tool for [Glamorous Toolkit]([https://duckduckgo.com](https://github.com/feenkcom/gtoolkit).
 EGAD was created to depict and analyze detailed GA workflow data.
 
 ## TODO
