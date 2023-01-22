@@ -22,7 +22,7 @@ Class {
 		'timeBudget',
 		'lastTime'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }

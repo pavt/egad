@@ -1,7 +1,7 @@
 Class {
 	#name : #WEHistoryExamples,
 	#superclass : #Object,
-	#category : #Egad
+	#category : #'Egad-Example'
 }
 
 { #category : #accessing }

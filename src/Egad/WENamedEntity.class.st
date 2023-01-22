@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'name'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }

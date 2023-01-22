@@ -1,5 +1,5 @@
 Class {
 	#name : #WEEvent,
 	#superclass : #WENamedEntity,
-	#category : #Egad
+	#category : #'Egad-Model'
 }

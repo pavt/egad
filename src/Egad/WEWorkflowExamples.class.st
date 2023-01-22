@@ -1,7 +1,7 @@
 Class {
 	#name : #WEWorkflowExamples,
 	#superclass : #Object,
-	#category : #Egad
+	#category : #'Egad-Example'
 }
 
 { #category : #accessing }

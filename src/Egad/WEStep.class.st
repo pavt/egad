@@ -1,7 +1,7 @@
 Class {
 	#name : #WEStep,
 	#superclass : #WEModelEntity,
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }

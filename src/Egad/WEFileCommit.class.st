@@ -7,7 +7,7 @@ Class {
 		'previousFileCommit',
 		'category'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }

@@ -5,7 +5,7 @@ Class {
 		'stickyGroup',
 		'ymlFile'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }

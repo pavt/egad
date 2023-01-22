@@ -7,7 +7,7 @@ Class {
 		'processes',
 		'mutex'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #'instance creation' }

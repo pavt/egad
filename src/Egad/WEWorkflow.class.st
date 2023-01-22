@@ -6,7 +6,7 @@ Class {
 		'jobs',
 		'file'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }

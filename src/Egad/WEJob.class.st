@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'steps'
 	],
-	#category : #Egad
+	#category : #'Egad-Model'
 }
 
 { #category : #accessing }
