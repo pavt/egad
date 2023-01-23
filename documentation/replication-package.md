@@ -20,13 +20,13 @@ BaselineOfEgad loadLepiter
 #### 2.1 Repositories selection criteria
 
 We consider targeted GitHub repositories: 
-- currently use GA and contain at least one workflow file in the *.github/workflow* directory,
+- currently using GA and contain at least one workflow file in the *.github/workflow* directory,
 - have been created  after *2019-01-11* (GA official release date)  and before *2022-12-14*, and 
 - have at least ten stars and at least five hundred commits. 
 - We do not consider forks. 
 - We used the GitHub Search tool to select repositories meeting these criteria. 
 - We cloned all the obtaided repositories on *2022-12-14*. 
-- Full list of repostories: see *respositories.csv* file.
+- Full list of repostories: see [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
 
 #### 2.2 Clone the list of repositories
 
