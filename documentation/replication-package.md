@@ -15,13 +15,23 @@ Load the Lepiter database:
 BaselineOfEgad loadLepiter
 ```
 
-### 2 Make sure you have the data in your local drive disk
+### 2 Dataset
+
+#### 2.1 Repositories selection criteria
+
+We consider targeted GitHub repositories: 
+- currently use GA and contain at least one workflow file in the *.github/workflow* directory,
+- have been created  after *2019-01-11* (GA official release date)  and before *2022-12-14*, and 
+- have at least ten stars and at least five hundred commits. 
+- We do not consider forks. 
+- We used the GitHub Search tool to select repositories meeting these criteria. 
+- We cloned all the obtaided repositories on *2022-12-14*. 
+
+#### 2.2 Clone the list of repositories
 
 - The dataset consist of 52 software repositories: see file-to-create.csv file.
 - Use the script.file script to clone all the repos into your local *repositories* directory. Otherwise you must to clone all the repos one per one.
-- Make sure the *repositories* directory is at the same path? than your GT image. See the image.file as a example.
-
-For example:
+- Make sure the *repositories* directory is at the same path? than your GT image.
 ```
 ./your-path/gt-image/
 ./your-path/repositories/
@@ -29,7 +39,7 @@ For example:
 
 - Once you download all the 52 repositories, the narrative is ready to be inspected.
 
-### 3 Acces to the Sticky Commits narrative
+### 3 Access to the Sticky Commits narrative
 
 -  Access to the narrative which is in the Lepiter database. See image.file for example.
 
