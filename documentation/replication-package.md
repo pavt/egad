@@ -19,24 +19,28 @@ BaselineOfEgad loadLepiter
 
 #### 2.1 Repositories selection criteria
 
-We consider targeted GitHub repositories: 
-- currently using GA and contain at least one workflow file in the *.github/workflow* directory,
-- have been created  after *2019-01-11* (GA official release date)  and before *2022-12-14*, and 
-- have at least ten stars and at least five hundred commits. 
-- We do not consider forks. 
-- We used the GitHub Search tool to select repositories meeting these criteria. 
-- We cloned all the obtaided repositories on *2022-12-14*. 
-- Full list of repostories: see [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
-- For our narrative we consider the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file - excluding no-software repositories, listed in descending order according to the number of starts: see [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
-- Problem: size ~10GB
+We consider targeted GitHub repositories that: 
+- currently use GA (GutHub ACtions) and contain at least one workflow file in the *.github/workflow* directory
+- have been created  after *2019-01-11* (GA official release date)  and before *2022-12-14*
+- have at least ten stars and at least five hundred commits
+- do not have forks
+
+We used the GitHub Search tool to select repositories meeting these criteria. 
+We cloned all the identified repositories on *2022-12-14*. 
+For a full list of repositories, see the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
+
+For our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts.
+The 50 selected respositories are listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+
+Problem: size ~10GB
 
 
 #### 2.2 Clone the list of repositories
 
 
-- Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one per one.
+- Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one by one.
 
-- Make sure the *repositories* directory is at the same path? than your GT image.
+- Make sure the *repositories* directory is in the same parent folder as your GT image.
 ```
 ./your-path/gt-image/
 ./your-path/repositories/
