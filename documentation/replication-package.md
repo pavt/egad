@@ -27,7 +27,7 @@ We consider targeted GitHub repositories:
 - We used the GitHub Search tool to select repositories meeting these criteria. 
 - We cloned all the obtaided repositories on *2022-12-14*. 
 - Full list of repostories: see [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
-- For our narrative we consider the first 50 software repositories - excluding no-software repositories, listed in descending order according to the number of starts: see [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+- For our narrative we consider the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file - excluding no-software repositories, listed in descending order according to the number of starts: see [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 - Problem: size ~10GB
 
 
