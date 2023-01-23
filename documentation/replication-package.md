@@ -22,10 +22,10 @@ BaselineOfEgad loadLepiter
 - Make sure the *repositories* directory is at the same path? than your GT image. See the image.file as a example.
 
 For example:
-´´´
+```
 ./your-path/gt-image/
 ./your-path/repositories/
-´´´
+```
 
 - Once you download all the 52 repositories, the narrative is ready to be inspected.
 
