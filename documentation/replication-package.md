@@ -17,9 +17,16 @@ BaselineOfEgad loadLepiter
 
 ### 2 Make sure you have the data in your local drive disk
 
-- The data consist of 52 software repositories obtainded from the file-to-create.csv file.
-- Use the script.file script to clone all the repositories into the repositories directory. Otherwise you must to clone one per one.
-- Make sure the *repositories* are at the same level? than your GT image. See the image.file as a example.
+- The dataset consist of 52 software repositories: see file-to-create.csv file.
+- Use the script.file script to clone all the repos into your local *repositories* directory. Otherwise you must to clone all the repos one per one.
+- Make sure the *repositories* directory is at the same path? than your GT image. See the image.file as a example.
+
+For example:
+´´´
+./your-path/gt-image/
+./your-path/repositories/
+´´´
+
 - Once you download all the 52 repositories, the narrative is ready to be inspected.
 
 ### 3 Acces to the Sticky Commits narrative
