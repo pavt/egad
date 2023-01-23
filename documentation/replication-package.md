@@ -41,7 +41,7 @@ We consider targeted GitHub repositories:
 ./your-path/gt-image/
 ./your-path/repositories/
 ```
-- Once you download all the 52 repositories, the narrative is ready to be inspected.
+- Once you download all the 50 repositories, the narrative is ready to be inspected.
 
 ### 3 Access to the Sticky Commits narrative
 
