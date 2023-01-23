@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T10:48:22.851353-03:00"
+						"dateAndTimeString" : "2023-01-22T16:01:15.826631-03:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commit narrative]]"
+				"string" : "[[Sticky Commits narrative]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -173,12 +173,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-20T18:56:57.7095-03:00"
+			"dateAndTimeString" : "2023-01-23T09:41:29.353028+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Table of Content"
+		"title" : "Table of Contents"
 	},
 	"uid" : {
 		"__type" : "uuid",

@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:12:26.052735-03:00"
+						"dateAndTimeString" : "2023-01-23T09:41:54.323399+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Loading EGAD project]] "
+				"string" : "[[Loading the EGAD project]] "
 			},
 			{
 				"__type" : "textSnippet",
@@ -173,12 +173,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-20T18:56:57.7095-03:00"
+			"dateAndTimeString" : "2023-01-23T09:41:29.353028+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Table of Content"
+		"title" : "Table of Contents"
 	},
 	"uid" : {
 		"__type" : "uuid",
