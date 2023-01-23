@@ -26,17 +26,18 @@ We consider targeted GitHub repositories:
 - We do not consider forks. 
 - We used the GitHub Search tool to select repositories meeting these criteria. 
 - We cloned all the obtaided repositories on *2022-12-14*. 
+- Full list of repostories: see *respositories.csv* file.
 
 #### 2.2 Clone the list of repositories
 
-- The dataset consist of the first 52 software repositories (excluding no-software repos): see file-to-create.csv file.
-- Use the script.file script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one per one.
+- We consider the first 52 software repositories (excluding no-software repos): see *respositories-52.csv* file.
+- Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one per one.
+
 - Make sure the *repositories* directory is at the same path? than your GT image.
 ```
 ./your-path/gt-image/
 ./your-path/repositories/
 ```
-
 - Once you download all the 52 repositories, the narrative is ready to be inspected.
 
 ### 3 Access to the Sticky Commits narrative
