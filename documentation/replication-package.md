@@ -30,7 +30,7 @@ We consider targeted GitHub repositories:
 
 #### 2.2 Clone the list of repositories
 
-- We consider the first 52 software repositories (excluding no-software repos): see *respositories-52.csv* file.
+- We consider the first 50 software repositories (excluding no-software repos): see *respositories-52.csv* file.
 - Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one per one.
 
 - Make sure the *repositories* directory is at the same path? than your GT image.
