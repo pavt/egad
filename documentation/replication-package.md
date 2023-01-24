@@ -28,15 +28,17 @@ We consider targeted GitHub repositories that:
 We used the [GitHub Search tool](https://seart-ghs.si.usi.ch/) to select repositories meeting these criteria. 
 We cloned all the identified repositories on *2022-12-14*. 
 
-#### 2.1 Datasets
+#### 2.1 Dataset
 
 - For a full list of repositories, see the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
 
-- In our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts.The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+- In our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts. 
+
+- The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
 - The [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) file (~18 MB), contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
-#### 2.2 Dataset
+#### 2.2 Replication dataset
 
 There are two alternatives to run the tool:
 
@@ -46,8 +48,7 @@ There are two alternatives to run the tool:
 
 2.2.2 Full replication
 
-- Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one by one.
-
+- Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one by one. [problem: clone using a specifict date]
 
 In both cases, make sure the *repositories* directory is in the same parent folder as your GT image.
 ```
