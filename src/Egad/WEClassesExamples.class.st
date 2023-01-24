@@ -97,7 +97,7 @@ WEClassesExamples >> modelClassPositions [
 
 { #category : #accessing }
 WEClassesExamples >> modelClasses [
-	^ (WEModelEntity package classes select: [ :c | c category endsWith: 'Model' ]) asOrderedCollection
+	^ (WEWorkflow package classes select: [ :c | c category endsWith: 'Model' ]) asOrderedCollection
 	sort: [ :a :b | a name <= b name ]
 ]
 
