@@ -25,18 +25,20 @@ We consider targeted GitHub repositories that:
 - have at least ten stars and at least five hundred commits
 - do not have forks
 
-We used the GitHub Search tool to select repositories meeting these criteria. 
+We used the [GitHub Search tool](https://seart-ghs.si.usi.ch/) to select repositories meeting these criteria. 
 We cloned all the identified repositories on *2022-12-14*. 
-For a full list of repositories, see the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
 
-For our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts.
-The 50 selected respositories are listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+- For a full list of repositories, see the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
 
-Problem: size ~10GB
+- In our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts.The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
+- The [5-repositories.zip](LINK)(~18 MB) file, contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
-#### 2.2 Clone the list of repositories
+#### 2.2 Dataset
 
+There are two alternatives to run the tool:
+
+1.- Use 
 
 - Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one by one.
 
