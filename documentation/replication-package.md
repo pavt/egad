@@ -28,26 +28,33 @@ We consider targeted GitHub repositories that:
 We used the [GitHub Search tool](https://seart-ghs.si.usi.ch/) to select repositories meeting these criteria. 
 We cloned all the identified repositories on *2022-12-14*. 
 
+#### 2.1 Datasets
+
 - For a full list of repositories, see the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file.
 
 - In our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts.The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
-- The [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) (~18 MB) file, contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+- The [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) file (~18 MB), contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
 #### 2.2 Dataset
 
 There are two alternatives to run the tool:
 
-1.- Use 
+2.2.1 Minimal replication
+
+- Use the [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) file (~18 MB), to get all the repos into your local *repositories* directory.
+
+2.2.2 Full replication
 
 - Use the *script.file* script to clone all the repos into your local *repositories* directory. Alternative, you can clone all the repos one by one.
 
-- Make sure the *repositories* directory is in the same parent folder as your GT image.
+
+In both cases, make sure the *repositories* directory is in the same parent folder as your GT image.
 ```
 ./your-path/gt-image/
 ./your-path/repositories/
 ```
-- Once you download all the 50 repositories, the narrative is ready to be inspected.
+Once you clone all the repositories, the narrative is ready to be inspected.
 
 ### 3 Access to the Sticky Commits narrative
 
