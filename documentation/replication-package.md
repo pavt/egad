@@ -48,7 +48,7 @@ There are two alternatives to run the tool:
 
 2.2.2 Full replication
 
-- Use the script [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt) files to clone all the repos into your local *repositories* directory.
+- Use the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt) files to clone all the repos into your local *repositories* directory.
 
 In both cases, make sure the *repositories* directory is in the same parent folder as your GT image.
 ```
