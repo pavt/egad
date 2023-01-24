@@ -32,7 +32,7 @@ We cloned all the identified repositories on *2022-12-14*.
 
 - In our narrative we consider just the first 50 software repositories of the [repositories.csv](https://github.com/pavt/egad/blob/main/dataset/repositories.csv) file, excluding no-software repositories, listed in descending order according to the number of starts.The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
-- The [5-repositories.zip](LINK)(~18 MB) file, contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+- The [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) (~18 MB) file, contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
 #### 2.2 Dataset
 
