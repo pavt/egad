@@ -59,4 +59,8 @@ There are two alternatives to run the tool:
 
 ### 3 Access to the Sticky Commits narrative
 
--  Please follow the [following instructions](https://github.com/pavt/egad/blob/main/documentation/gt-instructions.md).
+Once you've loaded the Egad repository:
+
+1. Go to Lepiter
+2. We provide 2 narratives (minimal and full replication)
+3. To access to these narratives, follow the [following instructions](https://github.com/pavt/egad/blob/main/documentation/gt-instructions.md).
