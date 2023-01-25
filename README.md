@@ -28,7 +28,7 @@ Then close the Playground tab (x in the tab), and open *“Get started with EGAD
 
 ## Demo video
 
-- TODO
+There is a [short installation video](https://youtu.be/KRQBrYrO4Lw) explaining how to download and install the tool.
 
 ## Authors
 
