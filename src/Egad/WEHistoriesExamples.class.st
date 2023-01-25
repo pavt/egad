@@ -10,7 +10,7 @@ WEHistoriesExamples >> historiesExample [
 	| histories |
 	
 	histories := WEHistories fromReposPath: '../repositories'.
-	self assert: (histories histories size) equals: 307.
+	self assert: (histories histories size) equals: 315.
 	
 	^ histories
 ]
