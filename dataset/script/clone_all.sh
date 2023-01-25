@@ -1,6 +1,6 @@
-# this file was adapted from https://gist.github.com/leonmydla/3ad1e6ccec879a499490290e41fd1a06
-
 #!/usr/bin/env bash
+
+# this file was adapted from https://gist.github.com/leonmydla/3ad1e6ccec879a499490290e41fd1a06
 
 # The repo_file should contain a list of remotes to clone.
 # Every remote is put in a single line
