@@ -47,7 +47,7 @@ BaselineOfEgad loadLepiter
 
 ## Authors
 
-- EGAD is being developed by AAA, BBB. etc, of the [Software Engineering Group](https://seg.inf.unibe.ch), University of Bern, Switzerland.
+- EGAD is being developed by the [Software Engineering Group](https://seg.inf.unibe.ch), University of Bern, Switzerland.
 
 
 
