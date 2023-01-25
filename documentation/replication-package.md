@@ -36,7 +36,7 @@ We cloned all the identified repositories on *2022-12-14*.
 
 - The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
-- The [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) file (~18 MB), contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
+- The [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file (~18 MB), contains the 5 smallest cloned repositories selected from the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
 #### 2.2 Replication dataset
 
