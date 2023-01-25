@@ -17,5 +17,8 @@ BaselineOfEgad class >> loadLepiter [
 { #category : #baseline }
 BaselineOfEgad >> baseline: spec [
 	<baseline>
-	spec for: #common do: [ spec package: 'Egad' ]
+	spec
+		for: #common
+		do: [ spec package: 'Egad'.
+			spec package: 'EgadGtHome' ]
 ]
