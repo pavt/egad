@@ -280,7 +280,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:52:00.212065+01:00"
+						"dateAndTimeString" : "2023-01-25T13:26:47.019118+01:00"
 					}
 				},
 				"editEmail" : {
@@ -291,7 +291,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:52:25.769191+01:00"
+						"dateAndTimeString" : "2023-01-25T13:26:47.662685+01:00"
 					}
 				},
 				"uid" : {
@@ -301,7 +301,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative — as in the companion []] "
+				"string" : "[[Sticky Commits narrative — as in the companion paper]] "
 			},
 			{
 				"__type" : "textSnippet",
