@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T16:01:15.826631-03:00"
+						"dateAndTimeString" : "2023-01-25T00:12:22.798539-03:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative]]"
+				"string" : "[[Sticky Commits narrative - same of the paper]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:57:04.32309-03:00"
+						"dateAndTimeString" : "2023-01-25T00:13:16.126156-03:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:57:04.32309-03:00"
+						"dateAndTimeString" : "2023-01-25T00:13:19.018348-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "m5rp3RqvDQCH7yqzCkLDIQ=="
+					"uidString" : "6NIVwG+vDQC4ek/ACfbKwg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "[[Sticky Commits narrative - minimal running example]] "
 			},
 			{
 				"__type" : "textSnippet",

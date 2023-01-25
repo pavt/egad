@@ -316,7 +316,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T11:04:02.938547-03:00"
+						"dateAndTimeString" : "2023-01-23T09:54:47.365471+01:00"
 					}
 				},
 				"uid" : {
@@ -326,7 +326,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We wrap this histories in the next object example: {{gtMethod:name=WEHistoriesExamples>>historiesExample|expanded}}"
+				"string" : "We wrap these histories in the next object example: {{gtMethod:name=WEHistoriesExamples>>historiesExample|expanded}}"
 			},
 			{
 				"__type" : "exampleSnippet",
