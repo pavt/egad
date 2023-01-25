@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:44:15.343489+01:00"
+						"dateAndTimeString" : "2023-01-25T13:30:54.428874+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Before exploring the tool, you need to either [download a minimal dataset](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) of six repositories containing GitHub actions, or use a [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and a [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt)  file to clone all 50 repositories used in the full replication study (about 10GB of data)."
+				"string" : "Before exploring the tool, you need to either [download a minimal dataset](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) of six repositories containing GitHub actions, or use a [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and a [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt)  file to clone all 50 repositories used in the full replication study (about 10GB of data). You can [directly downloa"
 			},
 			{
 				"__type" : "textSnippet",
@@ -280,7 +280,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:52:00.212065+01:00"
+						"dateAndTimeString" : "2023-01-25T13:26:47.019118+01:00"
 					}
 				},
 				"editEmail" : {
@@ -291,7 +291,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:52:25.769191+01:00"
+						"dateAndTimeString" : "2023-01-25T13:26:47.662685+01:00"
 					}
 				},
 				"uid" : {
@@ -301,7 +301,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative — as in the companion []] "
+				"string" : "[[Sticky Commits narrative — as in the companion paper]] "
 			},
 			{
 				"__type" : "textSnippet",

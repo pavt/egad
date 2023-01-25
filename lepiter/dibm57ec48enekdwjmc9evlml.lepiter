@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:44:15.343489+01:00"
+						"dateAndTimeString" : "2023-01-25T13:31:01.364262+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Before exploring the tool, you need to either [download a minimal dataset](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) of six repositories containing GitHub actions, or use a [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and a [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt)  file to clone all 50 repositories used in the full replication study (about 10GB of data)."
+				"string" : "Before exploring the tool, you need to either [download a minimal dataset](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) of six repositories containing GitHub actions, or use a [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and a [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt)  file to clone all 50 repositories used in the full replication study (about 10GB of data). You can [directly download these two files](https://github.com/pavt/egad/raw/main/dataset/script.zip)."
 			},
 			{
 				"__type" : "textSnippet",
