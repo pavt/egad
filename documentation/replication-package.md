@@ -61,6 +61,9 @@ There are two alternatives to run the tool:
 
 Once you've loaded the Egad repository:
 
-1. Go to Lepiter (link to the image)
-2. We provide 2 narratives (minimal and full replication). Select one of them. (link to image)
+1. Go to Lepiter
+
+[Lepiter in GT](https://github.com/pavt/egad/blob/main/images/lepiter.png)
+
+2. We provide 2 narratives (minimal and full replication (same of the paper)). Select one of them. (link to image)
 3. To run these narratives, follow the [following instructions](https://github.com/pavt/egad/blob/main/documentation/gt-instructions.md).
