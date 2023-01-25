@@ -495,7 +495,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:26:20.531563-03:00"
+						"dateAndTimeString" : "2023-01-25T00:26:46.708373-03:00"
 					}
 				},
 				"uid" : {
@@ -505,7 +505,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The history gave us access to the *Commits* and *Sticky Groups* Views, we can inspect them according to our interests."
+				"string" : "The history gave us access to the *Commits* and *Sticky Groups* Views, we can inspect them according to our goals."
 			}
 		]
 	},

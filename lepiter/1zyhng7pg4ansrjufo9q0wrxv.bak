@@ -389,12 +389,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-22T16:01:15.819831-03:00"
+			"dateAndTimeString" : "2023-01-25T09:52:25.004143+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Sticky Commits narrative"
+		"title" : "Sticky Commits narrative — as in the companio"
 	},
 	"uid" : {
 		"__type" : "uuid",

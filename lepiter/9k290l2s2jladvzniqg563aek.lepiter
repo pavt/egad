@@ -8,7 +8,45 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-20T18:57:32.050195-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-25T09:19:13.359192+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "gquF3hqvDQCH8FdECkLDIQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Loading the EGAD project]]  "
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -29,7 +67,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:20:38.342783+01:00"
+						"dateAndTimeString" : "2023-01-25T09:32:41.965536+01:00"
 					}
 				},
 				"uid" : {
@@ -39,81 +77,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Getting started with EGAD]]"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:57:32.050195-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:19:13.359192+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "gquF3hqvDQCH8FdECkLDIQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[Loading the EGAD project]]  "
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:59:05.173129-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:12:22.798539-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "Hx7E5BqvDQCIhqYrCkLDIQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[Sticky Commits narrative - same of the paper]]"
+				"string" : "[[Get started with EGAD]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +104,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:13:19.018348-03:00"
+						"dateAndTimeString" : "2023-01-25T09:52:08.652988+01:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +114,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative - minimal running example]] "
+				"string" : "[[Sticky Commits narrative — minimal running example]] "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:53:12.329637+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:53:12.329637+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Jzuaf3SvDQCLAqq4DRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[Sticky Commits narrative — as in the companion paper]]"
 			},
 			{
 				"__type" : "textSnippet",

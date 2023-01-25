@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:20:03.286002+01:00"
+						"dateAndTimeString" : "2023-01-25T09:34:35.609124+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:20:03.753745+01:00"
+						"dateAndTimeString" : "2023-01-25T09:35:07.94283+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,306 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "TODO"
+				"string" : "EGAD stands for *Explorable GitHub Action Domain Model*. "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:36:09.028149+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:38:40.529662+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+IHUQHSvDQCBjVo/DRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[This repository](https://github.com/pavt/egad) contains the replication package for the companion paper, *“EGAD: A Moldable Tool for GitHub Action Analysis”* (in submission)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:40:03.835637+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:44:15.343489+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8IG5UHSvDQCDBm8cDRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Before exploring the tool, you need to either [download a minimal dataset](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) of six repositories containing GitHub actions, or use a [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and a [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt)  file to clone all 50 repositories used in the full replication study (about 10GB of data)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:44:17.185562+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:47:52.463255+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "s+rRX3SvDQCGhg2VDRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Once you have downloaded either version, please install it as a folder called `repositories` next to the location where you have downloaded this package. That is, it should appear here:"
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:48:22.636134+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:48:22.636134+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "69CGbnSvDQCJF6QBDRAzxw=="
+				},
+				"exampleSelector" : "parentFolder",
+				"previewHeight" : 400,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "EgadFolderExample",
+				"codeExpanded" : true,
+				"previewExpanded" : true,
+				"noCode" : true
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:51:26.301776+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:51:50.198373+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "3a0oZXSvDQCIbiCmDRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Once you have done this, you can proceed directly to one of the narratives:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:51:53.673623+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:52:08.657577+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "D9fsenSvDQCKgzPwDRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[Sticky Commits narrative — minimal running example]]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:52:00.212065+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:52:25.278529+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "22Eve3SvDQCKmxNHDRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[Sticky Commits narrative — as in the companion]] "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:38:48.819219+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:38:48.819219+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UxJTTHSvDQCDAA7tDRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
 			}
 		]
 	},
@@ -51,7 +350,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-25T09:20:01.28792+01:00"
+			"dateAndTimeString" : "2023-01-25T09:20:26.040849+01:00"
 		}
 	},
 	"editEmail" : {
@@ -62,12 +361,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-01-25T09:20:01.28792+01:00"
+			"dateAndTimeString" : "2023-01-25T09:32:41.958314+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Getting started with EGAD"
+		"title" : "Get started with EGAD"
 	},
 	"uid" : {
 		"__type" : "uuid",

@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:32.8783-03:00"
+						"dateAndTimeString" : "2023-01-25T09:29:52.760637+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:34.835738-03:00"
+						"dateAndTimeString" : "2023-01-25T09:30:39.312199+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "fGLE4hqvDQCIaeexCkLDIQ=="
+					"uidString" : "fFdHLHSvDQC+Iw+EDRAzxw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Load the project into GT:"
+				"string" : "First [download Glamorous Toolkit](https://gtoolkit.com/download/) for your OS."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:30:42.313274+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-25T09:31:21.457448+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "5scxL3SvDQC+1nr2DRAzxw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Then, open a Playground (top left button) and copy-paste this snippet:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -66,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:07.730445-03:00"
+						"dateAndTimeString" : "2023-01-25T09:29:36.904718+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "sf+T4RqvDQCIWYSLCkLDIQ=="
 				},
-				"code" : "Metacello new\n\tbaseline: 'Egad';\n\trepository: 'github://pavt/egad:main/src';\n\tload"
+				"code" : "Metacello new\r\tbaseline: 'Egad';\r\trepository: 'github://pavt/egad:main/src';\r\tload.\r(Smalltalk at: #BaselineOfEgad) loadLepiter."
 			},
 			{
 				"__type" : "textSnippet",
@@ -89,7 +126,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:43.691328-03:00"
+						"dateAndTimeString" : "2023-01-25T09:31:34.053397+01:00"
 					}
 				},
 				"editEmail" : {
@@ -100,20 +137,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:44.781636-03:00"
+						"dateAndTimeString" : "2023-01-25T09:32:04.324267+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "1dCO4xqvDQCIdftoCkLDIQ=="
+					"uidString" : "CTAFMnSvDQC/vcK7DRAzxw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Load the Lepiter database:"
+				"string" : "Evaluate the snippet by clicking on the first button (black triangle) at the bottom."
 			},
 			{
-				"__type" : "pharoSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -126,7 +163,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:14.118482-03:00"
+						"dateAndTimeString" : "2023-01-25T09:32:05.899898+01:00"
 					}
 				},
 				"editEmail" : {
@@ -137,14 +174,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-20T18:58:21.474319-03:00"
+						"dateAndTimeString" : "2023-01-25T09:32:41.968194+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gJQS4hqvDQCIX2S0CkLDIQ=="
+					"uidString" : "zAY9NHSvDQCAyuWPDRAzxw=="
 				},
-				"code" : "BaselineOfEgad loadLepiter"
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Then click on [[Get started with EGAD]]."
 			}
 		]
 	},

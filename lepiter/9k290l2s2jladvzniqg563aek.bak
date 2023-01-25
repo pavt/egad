@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:19:52.710566+01:00"
+						"dateAndTimeString" : "2023-01-25T09:20:38.342783+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:20:16.44833+01:00"
+						"dateAndTimeString" : "2023-01-25T09:32:41.965536+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "[[Get started with EGAD]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:12:22.798539-03:00"
+						"dateAndTimeString" : "2023-01-25T09:52:25.76556+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative - same of the paper]]"
+				"string" : "[[Sticky Commits narrative — as in the companion []]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:13:19.018348-03:00"
+						"dateAndTimeString" : "2023-01-25T09:52:08.652988+01:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative - minimal running example]] "
+				"string" : "[[Sticky Commits narrative — minimal running example]] "
 			},
 			{
 				"__type" : "textSnippet",

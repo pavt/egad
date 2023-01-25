@@ -17,7 +17,7 @@ GtHomeEGADSection >> create [
 		size: 200@150
 		content:
 			(BrLabel new
-				text: 'Glamorous Toolkit Book';
+				text: 'Get started with EGAD';
 				aptitude: BrGlamorousLabelAptitude new
 					bold;
 				padding: (BlInsets all: 20)) asScalableElement
@@ -25,7 +25,7 @@ GtHomeEGADSection >> create [
 			| database startPage |
 			database := LeDatabasesRegistry default currentLoadedDefaultLogicalDatabase 
 				databaseNamed: 'pavt/egad/lepiter'.
-			startPage := database pageNamed: 'Getting started with EGAD'.
+			startPage := database pageNamed: 'Get started with EGAD'.
 			GtWorldUtility 
 				showSpaceWithTitle: startPage title
 				inPagerWith: [ startPage
