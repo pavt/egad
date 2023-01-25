@@ -36,28 +36,26 @@ We cloned all the identified repositories on *2022-12-14*.
 
 - The 50 selected respositories are filtered and listed in the [repositories-50.csv](https://github.com/pavt/egad/blob/main/dataset/repositories-50.csv) file.
 
-#### 2.2 Replication dataset
+#### 2.2 Replication datasets
 
 There are two alternatives to run the tool:
 
-2.2.1 Minimal replication
+##### 2.2.1 Minimal replication
 
 - Use the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file (~63 MB), to get all the repos into your local *repositories* directory.
 
-2.2.2 Full replication
+##### 2.2.2 Full replication
 
 - Use the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt) files to clone all the repos into your local *repositories* directory.
 
-2.2.3 Warning
+##### 2.2.3 Warning
 
 - In both cases, make sure the *repositories* directory is in the same parent folder as your GT image.
 ```
 ./your-path/gt-image/
 ./your-path/repositories/
 ```
-- be sure repositories directory does not contains plain files (e.g., .DS_Store)
-
-Once you clone all the repositories, the narrative is ready to be inspected.
+- be sure the *repositories* directory does not contains plain files (e.g., *.DS_Store*)
 
 ### 3 Access to the Sticky Commits narrative
 
