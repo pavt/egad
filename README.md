@@ -8,7 +8,9 @@ EGAD is a tool for [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) (GT
 
 Download GT (Glamorous Toolkit) for your OS from [gtoolkit.com](https://gtoolkit.com).
 Start GT and open a Playground (top left button).
+
 Copy-paste the following code snippet into the Playground, and evaluate it by clicking on the *Evaluate* button (black triangle).
+(This may take up to a minute.)
 
 ```
 Metacello new
