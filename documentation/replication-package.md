@@ -63,7 +63,7 @@ There are two alternatives to run the tool:
 
 ### 3 Access to the Sticky Commits narrative
 
-Once you've loaded the Egad repository: 
+Once you've loaded the Egad project: 
 
 1. Go to [Lepiter in GT](https://github.com/pavt/egad/blob/main/images/lepiter.png).
 2. We provide 2 narratives ([minimal and full replication - same of the paper](https://github.com/pavt/egad/blob/main/images/narratives.png)). Select one of them. 
