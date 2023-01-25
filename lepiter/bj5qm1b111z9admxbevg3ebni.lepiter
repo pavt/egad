@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:15:31.538976-03:00"
+						"dateAndTimeString" : "2023-01-25T11:37:36.258669+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "First we need to access to the *repositories* directory"
+				"string" : "First we need to access to the *repositories* directory. (NB: click on the second “Inspect” button to see the result, not the “Evaluate” button.)"
 			},
 			{
 				"__type" : "pharoSnippet",
