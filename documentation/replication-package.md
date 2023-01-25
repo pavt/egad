@@ -59,4 +59,4 @@ There are two alternatives to run the tool:
 
 ### 3 Access to the Sticky Commits narrative
 
--  Please follow the [following instructions](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt).
+-  Please follow the [following instructions](https://github.com/pavt/egad/blob/main/documentation/gt-instructions.md).
