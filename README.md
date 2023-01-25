@@ -7,21 +7,18 @@ EGAD is a tool for [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) (GT
 ## Quick setting up of EGAD on GT
 
 Download GT (Glamorous Toolkit) for your OS from [gtoolkit.com](https://gtoolkit.com).
-Start GT and open a Playground.
-Copy-paste the following code snippets
+Start GT and open a Playground (top left button).
+Copy-paste the following code snippet into the Playground, and evaluate it by clicking on the *Evaluate* button (black triangle).
 
-Load EGAD project into GT:
 ```
 Metacello new
 	baseline: 'Egad';
 	repository: 'github://pavt/egad:main/src';
-	load
+	load.
+(Smalltalk at: #BaselineOfEgad) loadLepiter.
 ```
 
-Load the Lepiter database:
-```
-BaselineOfEgad loadLepiter
-```
+Then close the Playground tab (x in the tab), and open *“Get started with EGAD”*.
 
 ## Replication package 
 
