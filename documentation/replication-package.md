@@ -59,8 +59,4 @@ There are two alternatives to run the tool:
 
 ### 3 Access to the Sticky Commits narrative
 
--  Access to the narrative which is in the Lepiter database. See image.file for example.
-
-### 4 Code execution
-- At this point all you have to do is inspect the code snippets of the narrative.
-- See for example, image.file.
+-  Please follow the [following instructions](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt).
