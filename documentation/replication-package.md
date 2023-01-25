@@ -44,7 +44,7 @@ There are two alternatives to run the tool:
 
 2.2.1 Minimal replication
 
-- Use the [5-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/5-repositories.zip) file (~18 MB), to get all the repos into your local *repositories* directory.
+- Use the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file (~18 MB), to get all the repos into your local *repositories* directory.
 
 2.2.2 Full replication
 
