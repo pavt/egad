@@ -67,5 +67,5 @@ Once you've loaded the Egad project:
 
 1. Go to [Lepiter in GT](https://github.com/pavt/egad/blob/main/images/lepiter.png).
 2. We provide 2 narratives ([minimal and full replication - same of the paper](https://github.com/pavt/egad/blob/main/images/narratives.png)). Select one of them. 
-3. [Run the code snippets](https://github.com/pavt/egad/blob/main/images/code.png) to inspect the narratives.
+3. [Inspect the code snippets](https://github.com/pavt/egad/blob/main/images/code.png) to get into the narratives.
 
