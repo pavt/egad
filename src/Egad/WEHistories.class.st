@@ -25,7 +25,11 @@ WEHistories class >> from: aHistoryCollection [
 { #category : #accessing }
 WEHistories class >> fromReposPath: aPathString [
 	| repoPaths histories files |
-	repoPaths := aPathString asFileReference children collect: #gtDisplayString.
+	repoPaths := (aPathString asFileReference children
+			select: [ :each | 
+				each isDirectory
+					and: [ (each / '.git') exists and: [ (each / '.git') isDirectory ] ] ])
+			collect: #gtDisplayString.
 	histories := OrderedCollection new.
 	repoPaths
 		do: [ :repoPath | 
