@@ -37,7 +37,7 @@ git@github.com:huggingface/datasets.git
 git@github.com:microsoft/playwright.git
 git@github.com:blitz-js/blitz.git
 git@github.com:dotnet/maui.git
-git@github.com:JaidedAI/EasyOCR.git
+git@github.com:vueuse/vueuse.git
 git@github.com:rome/tools.git
 git@github.com:gofiber/fiber.git
 git@github.com:ventoy/Ventoy.git
