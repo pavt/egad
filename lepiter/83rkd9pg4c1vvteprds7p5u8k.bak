@@ -584,7 +584,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:11:26.376414+01:00"
+									"dateAndTimeString" : "2023-01-27T14:29:15.637773+01:00"
 								}
 							},
 							"uid" : {
@@ -592,40 +592,6 @@
 								"uidString" : "yTn6JKCvDQCFkGseC4DliA=="
 							},
 							"code" : "repos := Character lf split: (datasetFolder / 'repos.txt') contents."
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:24:14.331805+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:27:12.991826+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "M2rEhKCvDQCi+v2/A1fX4A=="
-							},
-							"code" : "repos collect: [: each |\r\t(each copyAfter: $/ ) copyUpToSubstring: '.git'\r]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -689,7 +655,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:29:04.749394+01:00"
+									"dateAndTimeString" : "2023-01-27T14:29:09.302728+01:00"
 								}
 							},
 							"uid" : {
@@ -712,7 +678,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:56:35.925478+01:00"
+									"dateAndTimeString" : "2023-01-27T14:36:00.288865+01:00"
 								}
 							},
 							"editEmail" : {
@@ -723,7 +689,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:56:35.925478+01:00"
+									"dateAndTimeString" : "2023-01-27T14:36:18.873436+01:00"
 								}
 							},
 							"uid" : {
@@ -733,10 +699,10 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "Strangely, I get no progress bar, and my image is locked. \nAlso, strangely a Morphic World window has suddenly opened."
 						},
 						{
-							"__type" : "pharoSnippet",
+							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
 								"items" : [ ]
@@ -749,7 +715,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:22:12.642909+01:00"
+									"dateAndTimeString" : "2023-01-27T14:36:26.925918+01:00"
 								}
 							},
 							"editEmail" : {
@@ -760,14 +726,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:22:13.196545+01:00"
+									"dateAndTimeString" : "2023-01-27T14:36:28.005847+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "SpWDfaCvDQCi8y2JA1fX4A=="
+								"uidString" : "0opisKCvDQChb69lBQH7kQ=="
 							},
-							"code" : "rootDirectory := 'whitehall' asFileReference.\nrootDirectory ensureDeleteAll.\nrepository := IceRepositoryCreator\n\t\tfromUrl: 'git@github.com:alphagov/whitehall.git'\n\t\tto: rootDirectory.\nrootDirectory."
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
 						},
 						{
 							"__type" : "textSnippet",
