@@ -692,14 +692,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:50:03.942208+01:00"
+									"dateAndTimeString" : "2023-01-27T15:51:58.53004+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "ToZ5kaGvDQCgSBrTBu3BWA=="
 							},
-							"code" : "proc := GtSubprocessWithInMemoryOutput\r\t\tcommand: 'git'\r\t\targuments: {'clone'.\r\t\t\t\trepos first}.\rproc workingDirectory: datasetFolder.\rproc errorBlock: [ :proc | self error: 'External process failed, see proc' ].\rproc runAndSignal.\rdatasetFolder"
+							"code" : "proc := GtSubprocessWithInMemoryOutput\r\t\tcommand: 'git'\r\t\targuments: {'clone'.\r\t\t\t\trepos first}.\rproc workingDirectory: datasetFolder.\rproc errorBlock: [ :proc | self error: 'Git clone failed, see proc' ].\rproc runAndSignal.\rdatasetFolder"
 						},
 						{
 							"__type" : "textSnippet",
@@ -752,7 +752,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:48:38.586971+01:00"
+									"dateAndTimeString" : "2023-01-27T15:51:44.388693+01:00"
 								}
 							},
 							"editEmail" : {
@@ -763,7 +763,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:48:38.586971+01:00"
+									"dateAndTimeString" : "2023-01-27T15:52:05.921445+01:00"
 								}
 							},
 							"uid" : {
@@ -773,81 +773,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:49:03.921132+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:49:03.921132+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "IV4htKGvDQCtAqjKClyYcA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:49:04.167439+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:49:04.167439+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "wyMltKGvDQCtBmgcClyYcA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
+							"string" : "Load the full dataset:"
 						},
 						{
 							"__type" : "pharoSnippet",
