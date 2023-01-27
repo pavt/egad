@@ -570,7 +570,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:21:18.671166+01:00"
+									"dateAndTimeString" : "2023-01-27T15:20:56.509677+01:00"
 								}
 							},
 							"editEmail" : {
@@ -581,17 +581,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:21:25.191933+01:00"
+									"dateAndTimeString" : "2023-01-27T15:30:33.842155+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "zLD8ZKCvDQCgwOleA1fX4A=="
+								"uidString" : "hPiGT6GvDQCiaP0jBQH7kQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We clone the repos with a progress bar."
+							"string" : "AC suggests to use a {{gtClass:name=Job}} which directly can show progress in the notfications center. And we can use the CLI to clone the repos."
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -607,7 +607,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:28:41.22165+01:00"
+									"dateAndTimeString" : "2023-01-27T15:20:53.472961+01:00"
 								}
 							},
 							"editEmail" : {
@@ -618,51 +618,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:29:09.302728+01:00"
+									"dateAndTimeString" : "2023-01-27T15:30:56.213563+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "mc6slKCvDQCkVhVoA1fX4A=="
+								"uidString" : "7y5fT6GvDQCiZPzeBQH7kQ=="
 							},
-							"code" : "progressBar := BrProgress new.\rprogressBar\r\tconstraintsDo: [ :c | c horizontal matchParent ];\r\tpatternLabel: '{1}% of {2}% complete';\r\taptitude: BrGlamorousProgressWithLabelAndBarAptitude.\rprogressBar amount: 0 total: repos size.\r[ repos\r\tdoWithIndex: [ :each :n | \r\t\t| cloneDir |\r\t\tcloneDir := datasetFolder / ((each copyAfter: $/) copyUpToSubstring: '.git').\r\t\tcloneDir ensureDeleteAll.\r\t\tIceRepositoryCreator fromUrl: each to: cloneDir.\r\t\tprogressBar percentage: n ] ] fork.\rprogressBar"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:36:00.288865+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:36:18.873436+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "KSLrIaCvDQCEzFCoC4DliA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Strangely, I get no progress bar, and my image is locked. \nAlso, strangely a Morphic World window has suddenly opened."
+							"code" : "[ [ :job | \rjob title: '50 repositories'.\rrepos\r\tdoWithIndex: [ :each :n | \r\t\t| proc |\r\t\tjob\r\t\t\tprogress: n / repos size;\r\t\t\ttitle: 'Loading ' , each printString.\r\t\tproc := GtSubprocessWithInMemoryOutput new\r\t\t\t\tworkingDirectory: datasetFolder;\r\t\t\t\tcommand: 'git';\r\t\t\t\targuments: #('clone' each);\r\t\t\t\terrorBlock: [ :proc | self error: 'Git clone failed, see proc' ].\r\t\tproc runAndWait ] ] asJob run ] fork"
 						},
 						{
 							"__type" : "textSnippet",
@@ -807,6 +770,152 @@
 					"__type" : "textStyle"
 				},
 				"string" : "#Installing the fill dataset"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-27T14:21:18.671166+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-27T15:30:04.719151+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "zLD8ZKCvDQCgwOleA1fX4A=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "NB: THIS FAILS. We clone the repos with a progress bar."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-27T14:28:41.22165+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-27T14:29:09.302728+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "mc6slKCvDQCkVhVoA1fX4A=="
+							},
+							"code" : "progressBar := BrProgress new.\rprogressBar\r\tconstraintsDo: [ :c | c horizontal matchParent ];\r\tpatternLabel: '{1}% of {2}% complete';\r\taptitude: BrGlamorousProgressWithLabelAndBarAptitude.\rprogressBar amount: 0 total: repos size.\r[ repos\r\tdoWithIndex: [ :each :n | \r\t\t| cloneDir |\r\t\tcloneDir := datasetFolder / ((each copyAfter: $/) copyUpToSubstring: '.git').\r\t\tcloneDir ensureDeleteAll.\r\t\tIceRepositoryCreator fromUrl: each to: cloneDir.\r\t\tprogressBar percentage: n ] ] fork.\rprogressBar"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-27T14:51:46.667183+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-27T14:51:46.667183+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "KSLrIaCvDQCEzFCoC4DliA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Strangely, I get no progress bar, and my image is locked. \nAlso, strangely a Morphic World window has suddenly opened."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-27T15:30:11.043231+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-27T15:30:14.868078+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "D0+BcKGvDQCmnRqZBQH7kQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Failed experiment"
 			}
 		]
 	},
