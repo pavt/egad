@@ -547,14 +547,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:29:15.637773+01:00"
+									"dateAndTimeString" : "2023-01-27T16:17:37.955195+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "yTn6JKCvDQCFkGseC4DliA=="
 							},
-							"code" : "repos := Character lf split: (datasetFolder / 'repos.txt') contents."
+							"code" : "repos := (Character lf split: (datasetFolder / 'repos.txt') contents) select: #notEmpty "
 						},
 						{
 							"__type" : "textSnippet",
@@ -668,40 +668,6 @@
 							"string" : "This works:"
 						},
 						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:39:22.495809+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:51:58.53004+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "ToZ5kaGvDQCgSBrTBu3BWA=="
-							},
-							"code" : "proc := GtSubprocessWithInMemoryOutput\r\t\tcommand: 'git'\r\t\targuments: {'clone'.\r\t\t\t\trepos first}.\rproc workingDirectory: datasetFolder.\rproc errorBlock: [ :proc | self error: 'Git clone failed, see proc' ].\rproc runAndSignal.\rdatasetFolder"
-						},
-						{
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
@@ -800,14 +766,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:51:12.128077+01:00"
+									"dateAndTimeString" : "2023-01-27T15:56:27.668164+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "7y5fT6GvDQCiZPzeBQH7kQ=="
 							},
-							"code" : "[ [ :job | \rjob title: '50 repositories'.\rrepos\r\tdoWithIndex: [ :each :n | \r\t\t| proc |\r\t\tjob\r\t\t\tprogress: n / repos size;\r\t\t\ttitle: 'Loading ' , each printString.\r\t\tproc := GtSubprocessWithInMemoryOutput new\r\t\t\t\tworkingDirectory: datasetFolder;\r\t\t\t\tcommand: 'git';\r\t\t\t\targuments: {'clone' . each };\r\t\t\t\terrorBlock: [ :theProc | self error: 'Git clone failed, see proc' ].\r\t\tproc runAndWait.\r\t\t(Delay forMilliseconds: 100) wait ] ] asJob run ] fork"
+							"code" : "[ [ :job | \rjob title: '50 repositories'.\rrepos\r\tdoWithIndex: [ :each :n | \r\t\t| proc |\r\t\tjob\r\t\t\tprogress: n / repos size;\r\t\t\ttitle: 'Loading ' , each printString.\r\t\tproc := GtSubprocessWithInMemoryOutput new\r\t\t\t\tworkingDirectory: datasetFolder;\r\t\t\t\tcommand: 'git';\r\t\t\t\targuments: {'clone' . each };\r\t\t\t\terrorBlock: [ :theProc | self error: 'Git clone failed, see proc' ].\r\t\tproc runAndWait.\r\t\t(Delay forMilliseconds: 100) wait ] ] asJob run ] fork.\rdatasetFolder."
 						},
 						{
 							"__type" : "textSnippet",

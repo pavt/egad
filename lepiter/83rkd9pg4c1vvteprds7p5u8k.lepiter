@@ -547,14 +547,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:29:15.637773+01:00"
+									"dateAndTimeString" : "2023-01-27T16:17:37.955195+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "yTn6JKCvDQCFkGseC4DliA=="
 							},
-							"code" : "repos := Character lf split: (datasetFolder / 'repos.txt') contents."
+							"code" : "repos := (Character lf split: (datasetFolder / 'repos.txt') contents) select: #notEmpty "
 						},
 						{
 							"__type" : "textSnippet",
@@ -592,151 +592,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "AC suggests to use a {{gtClass:name=Job}} which directly can show progress in the notfications center. And we can use the CLI to clone the repos."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:39:28.066146+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:39:35.107619+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "2vXHkaGvDQCgTGOjBu3BWA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Let's try to clone just one repo first."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:48:45.776992+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:48:48.205756+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "BdoGs6GvDQCsfvCbClyYcA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "This works:"
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:39:22.495809+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:51:58.53004+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "ToZ5kaGvDQCgSBrTBu3BWA=="
-							},
-							"code" : "proc := GtSubprocessWithInMemoryOutput\r\t\tcommand: 'git'\r\t\targuments: {'clone'.\r\t\t\t\trepos first}.\rproc workingDirectory: datasetFolder.\rproc errorBlock: [ :proc | self error: 'Git clone failed, see proc' ].\rproc runAndSignal.\rdatasetFolder"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:48:33.592265+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T15:48:33.592265+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "U5ZSsqGvDQCsZvtEClyYcA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
 						},
 						{
 							"__type" : "textSnippet",
