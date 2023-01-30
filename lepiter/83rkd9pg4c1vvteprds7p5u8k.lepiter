@@ -850,14 +850,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:10:04.65775+01:00"
+									"dateAndTimeString" : "2023-01-30T15:28:12.442905+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "HwCnLaCvDQCGAzoUC4DliA=="
 							},
-							"code" : "datasetFolder := FileLocator workingDirectory / '50-repositories'.\rdatasetFolder ensureCreateDirectory.\rscriptFolder := 'pharo-local/iceberg/pavt/egad/dataset/script' asFileReference.\r{'clone_all.sh'.\r\t'repos.txt'} do: [ :each | scriptFolder / each copyTo: datasetFolder / each ].\rdatasetFolder."
+							"code" : "datasetFolder := FileLocator workingDirectory / '50-repositories'.\rdatasetFolder ensureCreateDirectory.\rscriptFolder := 'pharo-local/iceberg/pavt/egad/dataset/script' asFileReference.\r{'clone_all.sh'.\r\t'repos-https.txt'} do: [ :each | scriptFolder / each copyTo: datasetFolder / each ].\rdatasetFolder."
 						},
 						{
 							"__type" : "textSnippet",
@@ -921,14 +921,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T15:26:05.361955+01:00"
+									"dateAndTimeString" : "2023-01-30T15:26:07.906555+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "yTn6JKCvDQCFkGseC4DliA=="
 							},
-							"code" : "repos := (Character lf split: (datasetFolder / 'repos-hh.txt') contents) select: #notEmpty "
+							"code" : "repos := (Character lf split: (datasetFolder / 'repos-https.txt') contents) select: #notEmpty "
 						},
 						{
 							"__type" : "textSnippet",
