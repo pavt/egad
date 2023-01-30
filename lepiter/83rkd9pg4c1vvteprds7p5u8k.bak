@@ -665,7 +665,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:22:27.812362+01:00"
+									"dateAndTimeString" : "2023-01-30T11:30:45.872795+01:00"
 								}
 							},
 							"uid" : {
@@ -675,7 +675,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Move the load scripts to the EGAD class}}"
+							"string" : "{{gtTodo:label=Move the load scripts to the EGAD class|completed=2023-01-30}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -702,7 +702,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:23:14.547395+01:00"
+									"dateAndTimeString" : "2023-01-30T11:30:51.091938+01:00"
 								}
 							},
 							"uid" : {
@@ -712,7 +712,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Add example methods and assertions for the empty repo, and the fully loaded one}}"
+							"string" : "{{gtTodo:label=Add example methods and assertions for the empty repo, and the fully loaded one|completed=2023-01-30}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -1177,7 +1177,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T11:27:01.849091+01:00"
+									"dateAndTimeString" : "2023-01-30T11:27:07.395532+01:00"
 								}
 							},
 							"uid" : {
@@ -1187,7 +1187,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "To install the rpos (if necessary), we inspect/evaluate this:\nNB: only do this once!"
+							"string" : "To install the repos (if necessary), we inspect/evaluate this:\nNB: only do this once!"
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -1227,7 +1227,82 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-01-30T11:31:20.042507+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-01-30T11:31:28.771374+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "AbnKc9qvDQCuTn/cBLNPjg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "(1) Refresh the folder list"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-01-30T11:31:31.347997+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-01-30T11:31:32.251138+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "59iSdNqvDQCupkJGBLNPjg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "(2)"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -1237,7 +1312,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:49:20.377284+01:00"
+									"dateAndTimeString" : "2023-01-30T11:31:07.995793+01:00"
 								}
 							},
 							"editEmail" : {
@@ -1248,7 +1323,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:49:20.377284+01:00"
+									"dateAndTimeString" : "2023-01-30T11:31:16.070594+01:00"
 								}
 							},
 							"uid" : {
@@ -1258,7 +1333,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "To monitor the progress:"
 						}
 					]
 				},
