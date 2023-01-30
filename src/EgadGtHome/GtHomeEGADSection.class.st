@@ -24,7 +24,7 @@ GtHomeEGADSection >> create [
 		action: [ :card | 
 			| database startPage |
 			database := LeDatabasesRegistry default currentLoadedDefaultLogicalDatabase 
-				databaseNamed: 'pavt/egad/lepiter'.
+				databaseNamed: 'Egad Notebook'.
 			startPage := database pageNamed: 'Get started with EGAD'.
 			GtWorldUtility 
 				showSpaceWithTitle: startPage title
