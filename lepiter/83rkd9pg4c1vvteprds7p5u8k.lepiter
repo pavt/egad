@@ -1177,7 +1177,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T11:24:13.855616+01:00"
+									"dateAndTimeString" : "2023-01-30T11:27:07.395532+01:00"
 								}
 							},
 							"uid" : {
@@ -1187,7 +1187,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "To install the rpos (if necessary), we inspect/evaluate this:"
+							"string" : "To install the repos (if necessary), we inspect/evaluate this:\nNB: only do this once!"
 						},
 						{
 							"__type" : "pharoSnippet",

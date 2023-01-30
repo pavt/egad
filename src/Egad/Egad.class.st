@@ -16,16 +16,16 @@ Egad >> clone50repos [
 	job title: '50 repositories'.
 	repos
 		doWithIndex: [ :each :n | 
-			| proc |
+		| proc |
 			job
 				progress: n / repos size;
-				title: 'Loading ' , each printString.
+				title: each printString.
 			proc := GtSubprocessWithInMemoryOutput new
 					workingDirectory: datasetFolder;
 					command: 'git';
 					arguments: {'clone'.
 							each};
-					errorBlock: [ :theProc | self error: 'Git clone failed, see proc' ].
+					errorBlock: [ :theProc | self error: 'Git clone failed: ', each printString ].
 			proc runAndWait.
 			(Delay forMilliseconds: 100) wait ] ] asJob run ] fork.
 	datasetFolder
@@ -45,7 +45,8 @@ Egad >> gitChildrenNamesIn: aFolder [
 { #category : #accessing }
 Egad >> install50repos [
 	"Create and install the 6repos folder if necessary.
-If the 50 repos are not there yet, unzip them from the zip file."
+If the 50 repos are not there yet, unzip them from the zip file.
+NB: this run asynchronously, so we have to wait/monitor for the result."
 
 	<gtExample>
 	<noTest>
@@ -53,9 +54,6 @@ If the 50 repos are not there yet, unzip them from the zip file."
 	reposFolder := self the50reposFolder.
 	(self gitChildrenNamesIn: reposFolder) = self the50reposNames
 		ifFalse: [ self clone50repos ].
-	self
-		assert: (self gitChildrenNamesIn: reposFolder)
-		equals: self the50reposNames.
 	^ reposFolder
 ]
 
