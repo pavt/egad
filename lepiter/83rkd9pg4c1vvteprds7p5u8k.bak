@@ -505,6 +505,40 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-30T15:49:21.167749+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-30T15:51:21.719689+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "iquuDt6vDQCSQnpjD3EMtA=="
+							},
+							"code" : "zipFile := FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'pavt'\r\t\t/ 'egad' / 'dataset' / '6-repositories.zip'."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2023-01-27T13:46:17.807377+01:00"
 								}
 							},
@@ -516,14 +550,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:46:35.131431+01:00"
+									"dateAndTimeString" : "2023-01-30T15:51:14.351036+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "VGYT/Z+vDQC+iuf1C4DliA=="
 							},
-							"code" : "zipFile := 'pharo-local/iceberg/pavt/egad/dataset/6-repositories.zip'\r\t\tasFileReference.\rextracted := FileLocator workingDirectory / zipFile basenameWithoutExtension.\rextracted ensureCreateDirectory.\rZipArchive new\r\treadFrom: zipFile fullName;\r\textractAllTo: extracted overwrite: true;\r\tclose.\rextracted."
+							"code" : "repoDir := FileLocator imageDirectory / zipFile basenameWithoutExtension.\rrepoDir ensureCreateDirectory.\rZipArchive new\r\treadFrom: zipFile fullName;\r\textractAllTo: repoDir overwrite: true;\r\tclose.\rrepoDir."
 						},
 						{
 							"__type" : "textSnippet",
@@ -850,14 +884,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:10:04.65775+01:00"
+									"dateAndTimeString" : "2023-01-30T15:29:37.265223+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "HwCnLaCvDQCGAzoUC4DliA=="
 							},
-							"code" : "datasetFolder := FileLocator workingDirectory / '50-repositories'.\rdatasetFolder ensureCreateDirectory.\rscriptFolder := 'pharo-local/iceberg/pavt/egad/dataset/script' asFileReference.\r{'clone_all.sh'.\r\t'repos.txt'} do: [ :each | scriptFolder / each copyTo: datasetFolder / each ].\rdatasetFolder."
+							"code" : "datasetFolder := FileLocator workingDirectory / '50-repositories'.\rdatasetFolder ensureCreateDirectory.\rscriptFolder := 'pharo-local/iceberg/pavt/egad/dataset/script' asFileReference.\r{'clone_all.sh'.\r\t'repos-https.txt'} do: [ :each | scriptFolder / each copyTo: datasetFolder / each ].\rdatasetFolder."
 						},
 						{
 							"__type" : "textSnippet",
@@ -921,7 +955,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T15:26:07.906555+01:00"
+									"dateAndTimeString" : "2023-01-30T15:29:37.269064+01:00"
 								}
 							},
 							"uid" : {
