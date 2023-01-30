@@ -117,7 +117,7 @@ Egad >> the50reposNames [
 	"The full repo names to clone"
 	<gtExample>
 	<noTest>
-	^ (Character lf split: (self the50reposFolder / 'repos.txt') contents)
+	^ (Character lf split: (self the50reposFolder / 'repos-https.txt') contents)
 		select: #notEmpty
 ]
 
