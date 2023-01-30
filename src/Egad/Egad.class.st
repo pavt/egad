@@ -96,7 +96,7 @@ Egad >> the50reposFolder [
 	reposFolder := FileLocator workingDirectory / '50-repositories'.
 	reposFolder ensureCreateDirectory.
 	{'clone_all.sh'.
-		'repos.txt'}
+		'repos-https.txt'}
 		do: [ :each | 
 			(reposFolder / each) exists
 				ifFalse: [ self the50ReposScriptFolder / each copyTo: reposFolder / each ] ].
