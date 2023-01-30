@@ -368,7 +368,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:21:14.023071+01:00"
+									"dateAndTimeString" : "2023-01-30T10:25:34.088433+01:00"
 								}
 							},
 							"uid" : {
@@ -378,7 +378,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Move the load script to the EGAD class}}"
+							"string" : "{{gtTodo:label=Move the load script to the EGAD class|completed=2023-01-30}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -405,7 +405,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:21:45.827547+01:00"
+									"dateAndTimeString" : "2023-01-30T10:25:35.391016+01:00"
 								}
 							},
 							"uid" : {
@@ -415,7 +415,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Add example methods to load the repo and view the repo folder}}"
+							"string" : "{{gtTodo:label=Add example methods to load the repo and view the repo folder|completed=2023-01-30}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -442,7 +442,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:22:07.010585+01:00"
+									"dateAndTimeString" : "2023-01-30T10:25:37.975267+01:00"
 								}
 							},
 							"uid" : {
@@ -452,7 +452,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Add assertions to check that the repo is properly loaded (6 git repos)}}"
+							"string" : "{{gtTodo:label=Add assertions to check that the repo is properly loaded (6 git repos)|completed=2023-01-30}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -595,7 +595,7 @@
 								"uidString" : "01RaEtmvDQCHpUA1ChAWqQ=="
 							},
 							"exampleSelector" : "install6repos",
-							"previewHeight" : 30,
+							"previewHeight" : 350,
 							"previewShowSelector" : "gtViewsFor:",
 							"exampleBehaviorName" : "Egad",
 							"codeExpanded" : true,
@@ -616,80 +616,6 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:51:58.290882+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:51:58.290882+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "FVaWENmvDQCG2bbtChAWqQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:51:58.538038+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:51:58.538038+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "7hqaENmvDQCG3d9jChAWqQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2023-01-30T09:51:58.842274+01:00"
 								}
 							},
@@ -701,7 +627,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:51:58.842274+01:00"
+									"dateAndTimeString" : "2023-01-30T10:25:54.916193+01:00"
 								}
 							},
 							"uid" : {
@@ -711,78 +637,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Egad>>#install6repos"
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T16:24:50.891378+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T16:26:28.09083+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "y4kZNKKvDQCGFa4nCcq9HA=="
-							},
-							"code" : "Egad new install6repos"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:49:01.083617+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:49:14.203084+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "TRfHBqCvDQCC1RORC4DliA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "We also need to check several postconditions."
+							"string" : ""
 						}
 					]
 				},
