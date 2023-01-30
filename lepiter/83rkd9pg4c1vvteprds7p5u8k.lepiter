@@ -1052,7 +1052,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:36:26.925918+01:00"
+									"dateAndTimeString" : "2023-01-30T10:51:39.798569+01:00"
 								}
 							},
 							"editEmail" : {
@@ -1063,7 +1063,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T14:36:28.005847+01:00"
+									"dateAndTimeString" : "2023-01-30T10:51:39.798569+01:00"
 								}
 							},
 							"uid" : {
@@ -1073,7 +1073,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "We turn this into an example method of the {{gtClass:name=Egad}} class."
 						},
 						{
 							"__type" : "textSnippet",
