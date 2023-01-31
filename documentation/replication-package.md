@@ -45,12 +45,12 @@ There are two alternatives to run the tool:
 
 ##### 2.2.1 Minimal replication
 
-- Using the *minimal running example* narrative.
+- Using the **minimal running example** narrative.
 - In this case we provide the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file (~63 MB), to get 6 repositories into your local directory.
 
 ##### 2.2.2 Full replication
 
-- Using the *as in the companion paper* narrative.
+- Using the **as in the companion paper** narrative.
 - In this case we provide the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos-https.txt) files, to clone all the repositories into your local directory.
 
 ### 3 Access to the Sticky Commits narrative
