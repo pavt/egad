@@ -58,6 +58,6 @@ There are two alternatives to run the tool:
 Once you've loaded the Egad project: 
 
 1. Go to the Egad project [(as in the picture)](https://github.com/pavt/egad/blob/main/images/started.png).
-2. Select one of the narratives: (i) *minimal running example*, or (ii) *as in the companion paper*.
+2. Select one of the narratives: (i) **minimal running example**, or (ii) **as in the companion paper**.
 
 
