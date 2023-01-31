@@ -49,23 +49,13 @@ There are two alternatives to run the tool:
 
 ##### 2.2.2 Full replication
 
-- Use the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt) files to clone all the repos into your local *repositories* directory.
-- You can also directly [download these two files](https://github.com/pavt/egad/raw/main/dataset/script.zip)
-
-##### 2.2.3 Warning
-
-- In both cases, make sure the *repositories* directory is in the same parent folder as your GT image.
-```
-./your-path/gt-image/
-./your-path/repositories/
-```
-- be sure the *repositories* directory does not contains plain files (e.g., *.DS_Store*)
+- Use the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos-https.txt) files to clone all the repos into your local *repositories* directory.
 
 ### 3 Access to the Sticky Commits narrative
 
 Once you've loaded the Egad project: 
 
 1. Go to [Lepiter in GT](https://github.com/pavt/egad/blob/main/images/lepiter.png).
-2. We provide 2 narratives ([minimal and full replication - same of the paper](https://github.com/pavt/egad/blob/main/images/narratives.png)). Select one of them. 
-3. [Inspect the code snippets](https://github.com/pavt/egad/blob/main/images/code.png) to get into the narratives.
+2. We provide 2 narratives: a *minimal running example*, and *as in the companion paper*. You can select one at a time.
+
 
