@@ -13,3 +13,11 @@ WEHistoryExamples >> docsYMLHistoryExample [
 	self assert: history stickyCommits size equals: 12.
 	^ history
 ]
+
+{ #category : #accessing }
+WEHistoryExamples >> pythonPackageExample [
+	<gtExample>
+	| history |
+	history := WEHistory fromRepoPath: '6-repositories/rich' forYML: 'pythonpackage.yml'.
+	^ history
+]
