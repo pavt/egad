@@ -6,7 +6,7 @@
 # Every remote is put in a single line
 # The file has to end on an empty line
 
-repo_file="repos.txt"
+repo_file="repos-https.txt"
 
 if ! [[ -f $repo_file ]]; then
   echo "$repo_file file doesn't exist"

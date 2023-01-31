@@ -28,7 +28,7 @@ Then close the Playground tab (x in the tab), and open [*“Get started with EGA
 
 ## Demo video
 
-There is a [short installation video](https://youtu.be/KRQBrYrO4Lw) explaining how to download and install the tool.
+There is a [short installation video](https://youtu.be/jqXiPq037Rs) explaining how to download and install the tool.
 
 ## Authors
 
