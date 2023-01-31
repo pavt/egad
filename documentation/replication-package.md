@@ -45,17 +45,19 @@ There are two alternatives to run the tool:
 
 ##### 2.2.1 Minimal replication
 
-- Use the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file (~63 MB), to get all the repos into your local *repositories* directory.
+- Using the *minimal running example* narrative.
+- In this case we provide the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file (~63 MB), to get all the repos into your local directory.
 
 ##### 2.2.2 Full replication
 
-- Use the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos-https.txt) files to clone all the repos into your local *repositories* directory.
+- Using the *as in the companion paper* narrative.
+- In this case we provide the [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos-https.txt) files, to clone all the repos into your local directory.
 
 ### 3 Access to the Sticky Commits narrative
 
 Once you've loaded the Egad project: 
 
 1. Go to [Lepiter in GT](https://github.com/pavt/egad/blob/main/images/lepiter.png).
-2. We provide 2 narratives: a *minimal running example*, and *as in the companion paper*. You can select and inspect one at a time.
+2. Select one of the narratives: (i) *minimal running example*, and (ii) *as in the companion paper*.
 
 
