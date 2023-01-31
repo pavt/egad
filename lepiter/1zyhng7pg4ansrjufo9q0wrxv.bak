@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T10:49:19.112693-03:00"
+						"dateAndTimeString" : "2023-01-31T11:38:04.414461+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-23T09:42:18.869328+01:00"
+						"dateAndTimeString" : "2023-01-31T11:38:04.414461+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "PGGXUy6vDQCuD2MPBDePPg=="
+					"uidString" : "Y4C0qe6vDQCMnnswBsYObg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Our goal is *to detect one or more sequences of sticky commits through the exploration of the history of the* `pythonpackage.yml` *file.* "
+				"string" : "NB: This narrative has been slightly improved from the one presented in the paper."
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T11:21:41.223663-03:00"
+						"dateAndTimeString" : "2023-01-22T10:49:19.112693-03:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,131 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-23T09:53:40.526866+01:00"
+						"dateAndTimeString" : "2023-01-31T14:31:24.904069+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "JsJFvDyvDQCqU1bTBZNpiQ=="
+					"uidString" : "PGGXUy6vDQCuD2MPBDePPg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We wrap the history of a workflow in a {{gtClass:name=WEHistory}} object."
+				"string" : "Our goal is *to detect one or more sequences of sticky commits through the exploration of the history of the workflows files* "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:31:16.299355+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:31:16.299355+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "jry9L+avDQC3AFMTBsYObg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We can view the 50 repos folder:"
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:31:23.426953+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:31:23.426953+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "DwU2MOavDQC3BwD7BsYObg=="
+				},
+				"exampleSelector" : "the50reposFolder",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "Egad",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : true
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:37:55.912408+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:37:55.912408+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eDyPR+avDQC3R966BsYObg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "To install the repos (if necessary), we inspect/evaluate this:\nNB: only do this once!"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -92,7 +206,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-21T18:10:25.590762-03:00"
+						"dateAndTimeString" : "2023-01-31T01:37:59.339787+01:00"
 					}
 				},
 				"editEmail" : {
@@ -103,14 +217,126 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T12:48:37.613571-03:00"
+						"dateAndTimeString" : "2023-01-31T01:38:05.436574+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "LqjvVC6vDQCuEmQYBDePPg=="
+					"uidString" : "+DLPR+avDQC3TitYBsYObg=="
 				},
-				"code" : "history := WEHistory fromRepoPath: '../repositories/rich' forYML: 'pythonpackage.yml'"
+				"code" : "Egad new install50repos "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T01:39:22.68062+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T01:39:22.68062+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "uywUTOavDQC3XBmoBsYObg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "(1) Refresh the folder list"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T01:39:32.889804+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T01:39:32.889804+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WznaTOavDQC3Y9N3BsYObg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "(2) Check the Notifications (orange button top right)."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:39:07.946034+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T01:39:07.946034+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SpjZS+avDQC3VX9lBsYObg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "To monitor the progress:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -137,7 +363,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-23T09:54:35.965921+01:00"
+						"dateAndTimeString" : "2023-01-31T11:39:03.771377+01:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +373,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Similarly, we replicate the Sticky Commits candidate analysis considering all the GitHub Actions workflows in a set of repositories."
+				"string" : "We can do the Sticky Commits candidate analysis considering all the GitHub Actions workflows in a set of repositories."
 			},
 			{
 				"__type" : "textSnippet",
@@ -211,14 +437,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T10:54:17.500913-03:00"
+						"dateAndTimeString" : "2023-01-31T02:02:24.038912+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "xs4aWTyvDQCmhaoyBZNpiQ=="
 				},
-				"code" : "FileLocator imageDirectory parent / 'repositories'"
+				"code" : "repositories50 := FileLocator imageDirectory  / '50-repositories'"
 			},
 			{
 				"__type" : "textSnippet",
@@ -282,14 +508,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-22T10:57:05.806359-03:00"
+						"dateAndTimeString" : "2023-01-31T11:52:50.640755+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "URBkYTyvDQCnwlC1BZNpiQ=="
 				},
-				"code" : "histories := WEHistories fromReposPath: '../repositories'"
+				"code" : "historiesList := WEHistories fromReposPath: repositories50"
 			},
 			{
 				"__type" : "textSnippet",
@@ -316,7 +542,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-23T09:54:47.365471+01:00"
+						"dateAndTimeString" : "2023-01-31T11:48:48.533632+01:00"
 					}
 				},
 				"uid" : {
@@ -326,7 +552,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We wrap these histories in the next object example: {{gtMethod:name=WEHistoriesExamples>>historiesExample|expanded}}"
+				"string" : "We wrap these histories in the next object example: {{gtMethod:name=WEHistoriesExamples>>historiesFrom50RepositoriesExample|expanded}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T13:06:02.018759+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T13:06:02.018759+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6CxU2e6vDQCM7fREBsYObg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The example gives us access to the histories of all workflows of the 50 repositories:"
 			},
 			{
 				"__type" : "exampleSnippet",
@@ -360,13 +623,269 @@
 					"__type" : "uid",
 					"uidString" : "JHYiijyvDQCp+MeuBZNpiQ=="
 				},
-				"exampleSelector" : "historiesExample",
-				"previewHeight" : 500,
+				"exampleSelector" : "historiesFrom50RepositoriesExample",
+				"previewHeight" : 300,
 				"previewShowSelector" : "gtViewsFor:",
 				"exampleBehaviorName" : "WEHistoriesExamples",
 				"codeExpanded" : true,
 				"previewExpanded" : true,
 				"noCode" : true
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:11:48.665116+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:32:49.783041+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Ee+vz/CvDQCbarsLDo2NvQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Now, we can select  the histories based on a specific creteria. Then we select all the histories of the workflows named  *test.yml* "
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T11:52:17.021915+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:23:09.687738+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "9suy3O6vDQCOKgDXBsYObg=="
+				},
+				"code" : "workflowsNamedTest := historiesList histories select: [ :each | each ymlFile = 'test.yml']"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:16:40.495818+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:33:19.337479+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JCmr3fCvDQCd1qxJDo2NvQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The, we select only the history we want to inspect: "
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:13:40.929236+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:34:38.931873+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "A/Ng1vCvDQCczRmyDo2NvQ=="
+				},
+				"code" : "workflowsNamedTest third"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:25:35.086884+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:38:25.439382+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "LUbfAPGvDQChl0y3Do2NvQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We wrap the history in the {{gtMethod:name=WEHistoriesExamples>>historiesOpenBBTerminalExample|expanded}} example"
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:27:58.235133+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:27:58.235133+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "fWd6CfGvDQCjLyyiDo2NvQ=="
+				},
+				"exampleSelector" : "historiesOpenBBTerminalExample",
+				"previewHeight" : 400,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "WEHistoriesExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : true,
+				"noCode" : true
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:35:44.24673+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T14:37:09.528926+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "U4lVDvGvDQCjOjzrDo2NvQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Using the *Sticky Groups* view, we can see there are 33 groups:"
 			}
 		]
 	},

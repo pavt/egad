@@ -516,48 +516,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T15:51:21.719689+01:00"
+									"dateAndTimeString" : "2023-01-30T15:51:29.258337+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "iquuDt6vDQCSQnpjD3EMtA=="
 							},
-							"code" : "zipFile := FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'pavt'\r\t\t/ 'egad' / 'dataset' / '6-repositories.zip'."
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-27T13:46:17.807377+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T15:51:14.351036+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "VGYT/Z+vDQC+iuf1C4DliA=="
-							},
-							"code" : "repoDir := FileLocator imageDirectory / zipFile basenameWithoutExtension.\rrepoDir ensureCreateDirectory.\rZipArchive new\r\treadFrom: zipFile fullName;\r\textractAllTo: repoDir overwrite: true;\r\tclose.\rrepoDir."
+							"code" : "zipFile := FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'pavt'\r\t\t/ 'egad' / 'dataset' / '6-repositories.zip'.\rrepoDir := FileLocator imageDirectory / zipFile basenameWithoutExtension.\rrepoDir ensureCreateDirectory.\rZipArchive new\r\treadFrom: zipFile fullName;\r\textractAllTo: repoDir overwrite: true;\r\tclose.\rrepoDir."
 						},
 						{
 							"__type" : "textSnippet",
