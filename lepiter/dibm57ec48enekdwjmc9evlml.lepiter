@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:38:40.529662+01:00"
+						"dateAndTimeString" : "2023-01-31T16:15:34.59197+01:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,82 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[This repository](https://github.com/pavt/egad) contains the replication package for the companion paper, *“EGAD: A Moldable Tool for GitHub Action Analysis”* (in submission)."
+				"string" : "[This repository](https://github.com/pavt/egad) contains the replication package for the companion paper, [“EGAD: A Moldable Tool for GitHub Action Analysis”](https://github.com/pavt/egad/raw/main/paper/egad_paper.pdf) (in submission)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T16:05:38.653494+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T16:05:38.653494+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "byJ3ZvKvDQCIMDPDCRnEUA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Sticky Commits narrative — minimal running example]]"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T16:04:55.901926+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-01-31T16:05:32.887874+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "t8NYXvKvDQCE02GgCRnEUA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "To run EGAD, you need a dataset. There is a minimal dataset included with the tool. To explore this dataset, simply go to the first narrative:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +167,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:40:03.835637+01:00"
+						"dateAndTimeString" : "2023-01-31T16:24:52.725306+01:00"
 					}
 				},
 				"editEmail" : {
@@ -103,23 +178,61 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T13:31:01.364262+01:00"
+						"dateAndTimeString" : "2023-01-31T16:24:52.725306+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8IG5UHSvDQCDBm8cDRAzxw=="
+					"uidString" : "WweTq/KvDQCYqJYNCRnEUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Before exploring the tool, you need to either [download a minimal dataset](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) of six repositories containing GitHub actions, or use a [script](https://github.com/pavt/egad/blob/main/dataset/script/clone_all.sh) and a [repos.txt](https://github.com/pavt/egad/blob/main/dataset/script/repos.txt)  file to clone all 50 repositories used in the full replication study (about 10GB of data). You can [directly download these two files](https://github.com/pavt/egad/raw/main/dataset/script.zip)."
+				"string" : "To explore the full dataset described in the companion paper, you will need to clone the 50 GitHub repositories used in the replication study (about 10GB of data)."
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T16:25:07.278566+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T16:25:08.433632+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "4AFErPKvDQCZJv7hCRnEUA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Installing the 50 repos dataset]] "
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -129,7 +242,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:44:17.185562+01:00"
+						"dateAndTimeString" : "2023-01-31T16:24:55.824531+01:00"
 					}
 				},
 				"editEmail" : {
@@ -140,100 +253,61 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:47:52.463255+01:00"
+						"dateAndTimeString" : "2023-01-31T16:25:03.622916+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "s+rRX3SvDQCGhg2VDRAzxw=="
+					"uidString" : "y2Kdq/KvDQCYr43dCRnEUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Once you have downloaded either version, please install it as a folder called `repositories` next to the location where you have downloaded this package. That is, it should appear here:"
-			},
-			{
-				"__type" : "exampleSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:48:22.636134+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:48:22.636134+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "69CGbnSvDQCJF6QBDRAzxw=="
-				},
-				"exampleSelector" : "parentFolder",
-				"previewHeight" : 400,
-				"previewShowSelector" : "gtViewsFor:",
-				"exampleBehaviorName" : "EgadFolderExample",
-				"codeExpanded" : true,
-				"previewExpanded" : true,
-				"noCode" : true
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:51:26.301776+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:51:50.198373+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "3a0oZXSvDQCIbiCmDRAzxw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Once you have done this, you can proceed directly to one of the narratives:"
+				"string" : "Please follow the instructions here:"
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T16:08:09.084699+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-01-31T16:08:09.084699+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "sw2Eb/KvDQCLIi8JCRnEUA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Sticky Commits narrative — as in the companion paper]]"
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -243,7 +317,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:51:53.673623+01:00"
+						"dateAndTimeString" : "2023-01-31T16:05:52.485327+01:00"
 					}
 				},
 				"editEmail" : {
@@ -254,54 +328,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T09:52:08.657577+01:00"
+						"dateAndTimeString" : "2023-01-31T16:25:18.919482+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "D9fsenSvDQCKgzPwDRAzxw=="
+					"uidString" : "MfPtZvKvDQCITOdXCRnEUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Sticky Commits narrative — minimal running example]]"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T13:26:47.019118+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T13:26:47.662685+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "22Eve3SvDQCKmxNHDRAzxw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[Sticky Commits narrative — as in the companion paper]] "
+				"string" : " Then you can proceed to the second narrative:"
 			},
 			{
 				"__type" : "textSnippet",

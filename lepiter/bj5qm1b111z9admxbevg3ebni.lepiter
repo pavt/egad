@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-25T00:13:47.391672-03:00"
+						"dateAndTimeString" : "2023-01-31T16:11:19.604796+01:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-30T23:38:43.396481+01:00"
+						"dateAndTimeString" : "2023-01-31T16:11:19.604796+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "zCs6wW+vDQC4mvzhCfbKwg=="
+					"uidString" : "/csbe/KvDQCNJMU9CRnEUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "In this narrative we are going to use the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file."
+				"string" : "In this narrative we are going to use just 6 GitHub repositories selected from the full dataset of 50 repos. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T11:16:29.97595+01:00"
+						"dateAndTimeString" : "2023-01-25T00:13:47.391672-03:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T11:16:29.97595+01:00"
+						"dateAndTimeString" : "2023-01-31T16:11:28.801738+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "P1qfPOWvDQCwTsJUBsYObg=="
+					"uidString" : "zCs6wW+vDQC4mvzhCfbKwg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We start inspecting six repositories that are already available in the current image:"
+				"string" : "We start inspecting these six repositories:"
 			},
 			{
 				"__type" : "exampleSnippet",

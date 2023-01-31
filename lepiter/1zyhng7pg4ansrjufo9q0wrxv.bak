@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:31:16.299355+01:00"
+						"dateAndTimeString" : "2023-01-31T16:29:28.718732+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We can view the 50 repos folder:"
+				"string" : "We can view the 50 repos folder. "
 			},
 			{
 				"__type" : "exampleSnippet",
@@ -148,7 +148,7 @@
 					"uidString" : "DwU2MOavDQC3BwD7BsYObg=="
 				},
 				"exampleSelector" : "the50reposFolder",
-				"previewHeight" : 200,
+				"previewHeight" : 300,
 				"previewShowSelector" : "gtViewsFor:",
 				"exampleBehaviorName" : "Egad",
 				"codeExpanded" : true,
@@ -169,7 +169,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:37:55.912408+01:00"
+						"dateAndTimeString" : "2023-01-31T16:30:46.883328+01:00"
 					}
 				},
 				"editEmail" : {
@@ -180,20 +180,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:37:55.912408+01:00"
+						"dateAndTimeString" : "2023-01-31T16:32:15.693804+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eDyPR+avDQC3R966BsYObg=="
+					"uidString" : "v8q/vPKvDQCb9cezCRnEUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "To install the repos (if necessary), we inspect/evaluate this:\nNB: only do this once!"
+				"string" : "If the folder above contains only two files, the `clone_all.sh` script and the `repos-https.txt` file, then you will first need to install the "
 			},
 			{
-				"__type" : "pharoSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -206,7 +206,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:37:59.339787+01:00"
+						"dateAndTimeString" : "2023-01-31T16:13:39.237835+01:00"
 					}
 				},
 				"editEmail" : {
@@ -217,126 +217,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:38:05.436574+01:00"
+						"dateAndTimeString" : "2023-01-31T16:13:45.016089+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+DLPR+avDQC3TitYBsYObg=="
-				},
-				"code" : "Egad new install50repos "
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-31T01:39:22.68062+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-31T01:39:22.68062+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "uywUTOavDQC3XBmoBsYObg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "(1) Refresh the folder list"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-31T01:39:32.889804+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-31T01:39:32.889804+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "WznaTOavDQC3Y9N3BsYObg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "(2) Check the Notifications (orange button top right)."
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:39:07.946034+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T01:39:07.946034+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "SpjZS+avDQC3VX9lBsYObg=="
+					"uidString" : "2sdPg/KvDQCPHSUVCRnEUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "To monitor the progress:"
+				"string" : "#Exploring sticky commits"
 			},
 			{
 				"__type" : "textSnippet",
@@ -656,7 +547,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T14:32:49.783041+01:00"
+						"dateAndTimeString" : "2023-01-31T16:20:44.09091+01:00"
 					}
 				},
 				"uid" : {
@@ -666,7 +557,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Now, we can select  the histories based on a specific creteria. Then we select all the histories of the workflows named  *test.yml* "
+				"string" : "Now, we can select  the histories based on a specific criteria. Then we select all the histories of the workflows named  *test.yml* "
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -727,7 +618,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T14:33:19.337479+01:00"
+						"dateAndTimeString" : "2023-01-31T16:20:51.926282+01:00"
 					}
 				},
 				"uid" : {
@@ -737,7 +628,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The, we select only the history we want to inspect: "
+				"string" : "Then, we select only the history we want to inspect: "
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -888,43 +779,6 @@
 				"noCode" : true
 			},
 			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T15:47:04.662337+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T15:48:35.159982+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "oux7I/KvDQCswVcWDo2NvQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Now, we use the example to inspect the group of our interest:"
-			},
-			{
 				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -1060,7 +914,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T15:55:49.79376+01:00"
+						"dateAndTimeString" : "2023-01-31T15:55:54.121674+01:00"
 					}
 				},
 				"uid" : {
@@ -1070,7 +924,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "At this point,  we have molded a domain-specific tool based on EGAD using these custom views to reach our initial goal.  "
+				"string" : "We have molded a domain-specific tool based on EGAD using these custom views to reach our initial goal.  "
 			}
 		]
 	},

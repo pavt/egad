@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-30T23:38:43.396481+01:00"
+						"dateAndTimeString" : "2023-01-31T16:11:13.237644+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "In this narrative we are going to use the [6-repositories.zip](https://github.com/pavt/egad/blob/main/dataset/6-repositories.zip) file."
+				"string" : "In this narrative we are going to use just 6 GitHub repositories selected from the full dataset of 50 repos. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -1023,7 +1023,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-01-31T09:52:36.517849+01:00"
+						"dateAndTimeString" : "2023-01-31T11:35:01.32583+01:00"
 					}
 				},
 				"uid" : {
@@ -1033,7 +1033,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "As a conclusion:"
+				"string" : "As conclusion:"
 			}
 		]
 	},
