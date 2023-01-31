@@ -20,7 +20,7 @@ Metacello new
 (Smalltalk at: #BaselineOfEgad) loadLepiter.
 ```
 
-Then close the Playground tab (x in the tab), and open *“Get started with EGAD”*.
+Then close the Playground tab (x in the tab), and open [*“Get started with EGAD”*](https://github.com/pavt/egad/blob/main/images/started.png).
 
 ## Replication package 
 
