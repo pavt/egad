@@ -108,7 +108,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:17:47.402031+01:00"
+									"dateAndTimeString" : "2023-01-31T16:33:21.597627+01:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +118,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Prepare the load scripts (see descriptions and snippets below).}} "
+							"string" : "{{gtTodo:label=Prepare the load scripts (see descriptions and snippets below).|completed=2023-01-31}} "
 						},
 						{
 							"__type" : "textSnippet",
@@ -145,7 +145,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:18:26.28064+01:00"
+									"dateAndTimeString" : "2023-01-31T16:33:22.681729+01:00"
 								}
 							},
 							"uid" : {
@@ -155,7 +155,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Test the load scripts on Windows}}"
+							"string" : "{{gtTodo:label=Test the load scripts on Windows|completed=2023-01-31}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:19:44.388837+01:00"
+									"dateAndTimeString" : "2023-01-31T16:33:24.150313+01:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Test load scripts on Linux}}"
+							"string" : "{{gtTodo:label=Test load scripts on Linux|completed=2023-01-31}}"
 						},
 						{
 							"__type" : "textSnippet",
@@ -219,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-30T09:19:38.26768+01:00"
+									"dateAndTimeString" : "2023-01-31T16:33:30.153747+01:00"
 								}
 							},
 							"uid" : {
@@ -229,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "{{gtTodo:label=Update the narratives to use the new repo locations, and integrate the load snippets}}"
+							"string" : "{{gtTodo:label=Update the narratives to use the new repo locations, and integrate the load snippets|completed=2023-01-31}}"
 						},
 						{
 							"__type" : "textSnippet",
