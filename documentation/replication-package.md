@@ -56,6 +56,6 @@ There are two alternatives to run the tool:
 Once you've loaded the Egad project: 
 
 1. Go to [Lepiter in GT](https://github.com/pavt/egad/blob/main/images/lepiter.png).
-2. We provide 2 narratives: a *minimal running example*, and *as in the companion paper*. You can select one at a time.
+2. We provide 2 narratives: a *minimal running example*, and *as in the companion paper*. You can select and inspect one at a time.
 
 
