@@ -24,7 +24,7 @@ Then close the Playground tab (x in the tab), and open [*“Get started with EGA
 
 We consider targeted GitHub repositories that: 
 - currently use GA (GutHub ACtions) and contain at least one workflow file in the *.github/workflow* directory
-- have been created  after *2019-01-11* (GA official release date)  and before *2022-12-14*
+- have been created  after *2019-01-11* (GA official release date)  and before *2023-02-06*
 - have at least ten stars and at least five hundred commits
 - do not have forks
 
