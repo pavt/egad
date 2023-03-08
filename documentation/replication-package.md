@@ -1,10 +1,13 @@
 # EGAD - Replication Package Data and Tool Showcase Track MSR 2023
 
+### 0 Get Familiar with GT
+
+
+
 ### 1 Load the tool and the Lepiter database into GT
 
 Download GT (Glamorous Toolkit) for your OS from [gtoolkit.com](https://gtoolkit.com).
-Start GlamorousToolkit app and open a Playground (top left button).
-
+Start GlamorousToolkit app and open a Playground (top left button). 
 Copy-paste the following code snippet into the Playground, and evaluate it by clicking on the *Evaluate* button (black triangle).
 (This may take up to a minute.)
 
@@ -17,6 +20,8 @@ Metacello new
 ```
 
 Then close the Playground tab (x in the tab), and open [*“Get started with EGAD”*](https://github.com/pavt/egad/blob/main/images/started.png).
+
+NB: You can get familiar with GT by reviewing the GT book, which is available in the GT installation. 
 
 ### 2 Dataset
 
