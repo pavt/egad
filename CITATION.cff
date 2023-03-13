@@ -15,6 +15,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-9975-9791"
 title: "EGAD: a Moldable Tool for GitHub Action Analysis"
 version: 0.0.1
-doi: 00.0000/zenodo.1234
+doi: 10.5281/zenodo.7714219
 date-released: 2023-01-23
 url: "https://github.com/pavt/egad"
